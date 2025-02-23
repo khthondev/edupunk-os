@@ -1,0 +1,24 @@
+# .gitignore
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder files
+Icon?
+._*
+
+# macOS resource fork files
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.fseventsd
+
+# macOS temporary files
+.TemporaryItems
+.apdisk
+
+# Project-specific files
+notes.txt
+MANIFESTO-DRAFT.md
