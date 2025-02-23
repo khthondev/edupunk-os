@@ -2,9 +2,7 @@
 
 # 🔨 How to Contribute  
 **Welcome, rebel.**  
-Whether you code, design, test, or just hate corporate EdTech – there’s work to do.  
-
----
+Whether you code, design, test, or just hate corporate EdTech – there’s work to do.
 
 ## 🛠️ Ways to Rebel  
 
