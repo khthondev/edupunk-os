@@ -6,9 +6,21 @@ Corporate EdTech is a $300B scam:
 - **Surveillance** masked as "learning analytics"
 - **VC Puppetry** forcing founders to prioritize exits over impact
 
-We’re done asking permission to fix education.
+## Supporting Facts
+### **Bloatware**  
+- **8-12 clicks** required for basic tasks in typical LMS ([Nielsen Norman Group, 2024](https://www.nngroup.com)).
+- **32%** of LMS features never used in typical deployments ([Gartner, 2024](https://www.gartner.com/en/education)).
+
+### **Surveillance**  
+- **60%** of K-12 apps share or sell student data to third parties ([Me2B Alliance, 2024](https://me2ba.org/research)).  
+- **AI proctoring** shows **23%** higher error rates for non-white students ([Stanford AI Lab, 2024](https://ai.stanford.edu/research)).  
+
+### **Financial Exploitation**  
+- **$51.3B/year** wasted globally on EdTech tools teachers don't effectively use ([McKinsey, 2024](https://www.mckinsey.com/industries/education)).
+- **67%** of teachers report mandatory EdTech tools interfere with instruction time ([Education Week, 2024](https://www.edweek.org/technology)).
 
 ## The Rebellion
+We’re done asking permission to fix education.
 
 ![LA Punk](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif)
 
