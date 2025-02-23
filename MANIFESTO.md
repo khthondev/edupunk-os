@@ -8,8 +8,6 @@ Corporate EdTech is a $300B scam:
 
 We’re done asking permission to fix education.
 
----
-
 ## The Rebellion
 
 ![LA Punk](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif)
@@ -23,9 +21,7 @@ Build tools that:
 Our weapons:  
 - Next.js + Supabase + Ollama  
 - Teacher-approved UX  
-- Apache 2.0 License (freedom over "IP")  
-
----
+- Apache 2.0 License (freedom over "IP")
 
 ## Principles  
 1. **Privacy First**  
@@ -35,15 +31,11 @@ Our weapons:
 3. **Community > Corporations**
    Code is open. Decisions are public. Profits are shared.
 
----
-
 ## The Target
 **Phase 1:** Replace Canvas/Blackboard with a self-hosted LMS that:
 - Teachers can set up in 10 minutes
 - Costs less than a classroom pencil sharpener
 - Doesn’t sell student data to advertisers
-
----
 
 ## Join the Resistance
 1. **Star this repo** → Show Big EdTech we’re coming.
