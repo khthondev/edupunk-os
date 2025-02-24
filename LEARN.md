@@ -1,1 +1,5 @@
 > _[@khthondev](https://github.com/khthondev) — This file is under development, my friend. [Edupunk OS Manifesto](MANIFESTO.md) is the most comprehensive guide for the project, check it out!_
+
+# HOW TO STUDY
+
+## GUIDE FOR LAZY ASSES
