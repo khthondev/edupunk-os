@@ -52,7 +52,7 @@ def practice_negative_visualization():
 
 ---
 
-> _[@khthondev](https://github.com/khthondev) — That's just the foundation for the future of education, and all cool cats and kittens are welcome. Here's how you can contribute — [CONTRIBUTING.md](CONTRIBUTING.md)_ 
+> _[@khthondev](https://github.com/khthondev) — That's just the foundation for the future of education, and all cool cats and kittens are welcome. Here's how you can contribute — [CONTRIBUTING.md](CONTRIBUTING.md)_
 
 ---
 
@@ -71,28 +71,6 @@ def practice_negative_visualization():
 - AGPLv3 licensed (forever free, forever open)
 - Community-driven roadmap
 - Transparent decision making
-
-### Technical Foundation
-- **Frontend:** Next.js + Tailwind + shadcn/ui
-- **Backend:** Supabase + PostgreSQL
-- **AI:** Ollama + LangChain
-- **Auth:** Magic Links + OAuth2
-
-### Features That Matter
-1. **Course Dashboard**
-- One-click access to everything
-- Works without internet
-- No pointless clicking
-
-2. **Assignment System**
-- Write in Markdown
-- Catch plagiarism locally
-- Grade fairly and quickly
-
-3. **DIY AI Tutor**
-- Run AI on your terms
-- Keep data private
-- Customize everything
 
 ---
 
@@ -146,7 +124,7 @@ def practice_negative_visualization():
 3. **Spread the Word**
 - Share your deployment
 - Join our Discord
-- Come to meetups
+<!-- - Come to meetups -->
 
 ---
 
