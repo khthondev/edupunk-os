@@ -12,7 +12,8 @@
 CORPORATE EDTECH HAS MUTATED FROM A TEACHING
 AID INTO A MULTI-BILLION DOLLAR PARASITE
 ```
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif" width="500" alt="MxPx Wedding Cake">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif" width="500" alt="Wedding Cake">
 
 ### Bloatware That Kills Learning
 - You need multiple training sessions just to grade homework
@@ -44,7 +45,8 @@ AID INTO A MULTI-BILLION DOLLAR PARASITE
 DIY EDUCATION TOOLS BUILT BY
 THE COMMUNITY FOR THE COMMUNITY
 ```
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif" width="500" alt="LA Punk">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif" width="500" alt="Punk Pals">
 
 ### Core Principles
 1. **Teacher Autonomy**
@@ -95,7 +97,8 @@ THE COMMUNITY FOR THE COMMUNITY
 
 SHARE KNOWLEDGE AND SPREAD LOVE
 ```
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3cW1tbDY5aWp0aHpiMnU3cTB6ZW02eHVhNXozMDRhcGhibzludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yI8xR98IR2t1e/giphy.gif" width="500" alt="Jay and Silent Bob"> 
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3cW1tbDY5aWp0aHpiMnU3cTB6ZW02eHVhNXozMDRhcGhibzludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yI8xR98IR2t1e/giphy.gif" width="500" alt="The Dance"> 
 
 ### For Teachers
 - Deploy in minutes, not months
@@ -112,9 +115,21 @@ SHARE KNOWLEDGE AND SPREAD LOVE
 - Solve real problems
 - Build with purpose
 
-## How to Join
+---
 
-![LA Punk](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif)
+```
+#   ▄ .▄      ▄▄▌ ▐ ▄▌    ▄▄▄▄▄           ▐▄▄▄      ▪   ▐ ▄ 
+#  ██▪▐█▪     ██· █▌▐█    •██  ▪           ·██▪     ██ •█▌▐█
+#  ██▀▐█ ▄█▀▄ ██▪▐█▐▐▌     ▐█.▪ ▄█▀▄     ▪▄ ██ ▄█▀▄ ▐█·▐█▐▐▌
+#  ██▌▐▀▐█▌.▐▌▐█▌██▐█▌     ▐█▌·▐█▌.▐▌    ▐▌▐█▌▐█▌.▐▌▐█▌██▐█▌
+#  ▀▀▀ · ▀█▄▀▪ ▀▀▀▀ ▀▪     ▀▀▀  ▀█▄▀▪     ▀▀▀• ▀█▄▀▪▀▀▀▀▀ █▪
+
+EDUPUNK OS IS NOT ONLY SOFTWARE:
+IT'S THE PEOPLE WHO CARE.
+AND WE NEED YOUR HELP
+```
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RpeDk2aHM1dmo0aHRjdHk2aWdvYzMwMmdtMGhqOHJnc2xqOGQ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoCDk7fecj2dwCtSB3/giphy.gif" width="500" alt="Come On">
 
 1. **Star & Fork**
    ```bash
@@ -135,9 +150,17 @@ SHARE KNOWLEDGE AND SPREAD LOVE
 - Join our Discord
 - Come to meetups
 
-## Our Promise
+---
 
-![LA Punk](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif)
+```
+      ▄• ▄▌▄▄▄       ▄▄▄·▄▄▄        • ▌ ▄ ·. ▪  .▄▄ · ▄▄▄ .
+▪     █▪██▌▀▄ █·    ▐█ ▄█▀▄ █·▪     ·██ ▐███▪██ ▐█ ▀. ▀▄.▀·
+ ▄█▀▄ █▌▐█▌▐▀▀▄      ██▀·▐▀▀▄  ▄█▀▄ ▐█ ▌▐▌▐█·▐█·▄▀▀▀█▄▐▀▀▪▄
+▐█▌.▐▌▐█▄█▌▐█•█▌    ▐█▪·•▐█•█▌▐█▌.▐▌██ ██▌▐█▌▐█▌▐█▄▪▐█▐█▄▄▌
+ ▀█▄▀▪ ▀▀▀ .▀  ▀    .▀   .▀  ▀ ▀█▄▀▪▀▀  █▪▀▀▀▀▀▀ ▀▀▀▀  ▀▀▀ 
+```
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlyaTJ2enBoZDV2NWlpNDF4YndzbGZyYWJ6NGhxcDdkazZ5ZzVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cu7tfLe1edy3HE7JfC/giphy.gif" width="500" alt="Promise">
 
 We will never:
 - Sell student data
@@ -146,9 +169,17 @@ We will never:
 - Compromise on privacy
 - Hide our code
 
-## The Future We're Building
+---
 
-![LA Punk](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif)
+```
+▄▄▄▄▄ ▄ .▄▄▄▄ .    ·▄▄▄▄• ▄▌▄▄▄▄▄▄• ▄▌▄▄▄  ▄▄▄ .
+•██  ██▪▐█▀▄.▀·    ▐▄▄·█▪██▌•██  █▪██▌▀▄ █·▀▄.▀·
+ ▐█.▪██▀▐█▐▀▀▪▄    ██▪ █▌▐█▌ ▐█.▪█▌▐█▌▐▀▀▄ ▐▀▀▪▄
+ ▐█▌·██▌▐▀▐█▄▄▌    ██▌.▐█▄█▌ ▐█▌·▐█▄█▌▐█•█▌▐█▄▄▌
+ ▀▀▀ ▀▀▀ · ▀▀▀     ▀▀▀  ▀▀▀  ▀▀▀  ▀▀▀ .▀  ▀ ▀▀▀ 
+```
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI5cjlueTNzNmE3NTI0dWJrMXczNDZrbzVnNDAzNnkxcWc2Z2R2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsF1FSDbjguis/giphy.gif" width="500" alt="Future">
 
 Teachers control their tools.  
 Students own their data.  
