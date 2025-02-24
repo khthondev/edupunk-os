@@ -1,7 +1,7 @@
 <img src="assets/edupunk-os-contributing@2x.png" srcset="assets/edupunk-os-contributing@1x.png 1x, assets/edupunk-os-contributing@2x.png 2x" alt="Edupunk Contributing Cover">
 
 # How to Contribute  
-**Welcome, punk**
+**Welcome, edupunk**
 Whether you code, design, test, or just hate big fat corpo EdTech – there’s work to do.
 
 ---
