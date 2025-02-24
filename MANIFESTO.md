@@ -6,7 +6,7 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif" width="500" alt="Wedding Cake">
 
-### // CORPORATE EDTECH HAS MUTATED FROM A TEACHING AID INTO A MULTI-BILLION DOLLAR PARASITE //
+### /// CORPORATE EDTECH HAS MUTATED FROM A TEACHING AID INTO A MULTI-BILLION DOLLAR PARASITE ///
 
 ---
 
@@ -38,7 +38,9 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif" width="500" alt="Punk Pals">
 
-[ DIY EDUCATION TOOLS BUILT BY THE COMMUNITY FOR THE COMMUNITY ]
+### /// DIY EDUCATION TOOLS BUILT BY THE COMMUNITY FOR THE COMMUNITY ///
+
+---
 
 ### Core Principles
 1. **Teacher Autonomy**
@@ -80,17 +82,13 @@
 
 ---
 
-```
-• ▌ ▄ ·.        ▌ ▐·▄▄▄ .• ▌ ▄ ·. ▄▄▄ . ▐ ▄ ▄▄▄▄▄
-·██ ▐███▪▪     ▪█·█▌▀▄.▀··██ ▐███▪▀▄.▀·•█▌▐█•██  
-▐█ ▌▐▌▐█· ▄█▀▄ ▐█▐█•▐▀▀▪▄▐█ ▌▐▌▐█·▐▀▀▪▄▐█▐▐▌ ▐█.▪
-██ ██▌▐█▌▐█▌.▐▌ ███ ▐█▄▄▌██ ██▌▐█▌▐█▄▄▌██▐█▌ ▐█▌·
-▀▀  █▪▀▀▀ ▀█▄▀▪. ▀   ▀▀▀ ▀▀  █▪▀▀▀ ▀▀▀ ▀▀ █▪ ▀▀▀ 
+## MOVEMENT
 
-SHARE KNOWLEDGE AND SPREAD LOVE
-```
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3cW1tbDY5aWp0aHpiMnU3cTB6ZW02eHVhNXozMDRhcGhibzludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yI8xR98IR2t1e/giphy.gif" width="500" alt="The Dance">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3cW1tbDY5aWp0aHpiMnU3cTB6ZW02eHVhNXozMDRhcGhibzludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yI8xR98IR2t1e/giphy.gif" width="500" alt="The Dance"> 
+### /// SHARE KNOWLEDGE AND SPREAD LOVE ///
+
+---
 
 ### For Teachers
 - Deploy in minutes, not months
@@ -109,19 +107,13 @@ SHARE KNOWLEDGE AND SPREAD LOVE
 
 ---
 
-```
- ▄ .▄      ▄▄▌ ▐ ▄▌    ▄▄▄▄▄           ▐▄▄▄      ▪   ▐ ▄ 
-██▪▐█▪     ██· █▌▐█    •██  ▪           ·██▪     ██ •█▌▐█
-██▀▐█ ▄█▀▄ ██▪▐█▐▐▌     ▐█.▪ ▄█▀▄     ▪▄ ██ ▄█▀▄ ▐█·▐█▐▐▌
-██▌▐▀▐█▌.▐▌▐█▌██▐█▌     ▐█▌·▐█▌.▐▌    ▐▌▐█▌▐█▌.▐▌▐█▌██▐█▌
-▀▀▀ · ▀█▄▀▪ ▀▀▀▀ ▀▪     ▀▀▀  ▀█▄▀▪     ▀▀▀• ▀█▄▀▪▀▀▀▀▀ █▪
-
-EDUPUNK OS IS NOT ONLY SOFTWARE:
-IT'S THE PEOPLE WHO CARE.
-AND WE NEED YOUR HELP
-```
+## HOW TO JOIN
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RpeDk2aHM1dmo0aHRjdHk2aWdvYzMwMmdtMGhqOHJnc2xqOGQ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoCDk7fecj2dwCtSB3/giphy.gif" width="500" alt="Come On">
+
+### /// EDUPUNK OS IS NOT ONLY SOFTWARE; IT'S THE PEOPLE WHO CARE. AND WE NEED YOUR HELP ///
+
+---
 
 1. **Star & Fork**
    ```bash
@@ -144,17 +136,13 @@ AND WE NEED YOUR HELP
 
 ---
 
-```
-      ▄• ▄▌▄▄▄       ▄▄▄·▄▄▄        • ▌ ▄ ·. ▪  .▄▄ · ▄▄▄ .
-▪     █▪██▌▀▄ █·    ▐█ ▄█▀▄ █·▪     ·██ ▐███▪██ ▐█ ▀. ▀▄.▀·
- ▄█▀▄ █▌▐█▌▐▀▀▄      ██▀·▐▀▀▄  ▄█▀▄ ▐█ ▌▐▌▐█·▐█·▄▀▀▀█▄▐▀▀▪▄
-▐█▌.▐▌▐█▄█▌▐█•█▌    ▐█▪·•▐█•█▌▐█▌.▐▌██ ██▌▐█▌▐█▌▐█▄▪▐█▐█▄▄▌
- ▀█▄▀▪ ▀▀▀ .▀  ▀    .▀   .▀  ▀ ▀█▄▀▪▀▀  █▪▀▀▀▀▀▀ ▀▀▀▀  ▀▀▀ 
-
-NO CORPORATE BS
-```
+## OUR PROMISE
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlyaTJ2enBoZDV2NWlpNDF4YndzbGZyYWJ6NGhxcDdkazZ5ZzVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cu7tfLe1edy3HE7JfC/giphy.gif" width="500" alt="Promise">
+
+### /// NO CORPORATE BS ///
+
+---
 
 We will never:
 - Sell student data
@@ -165,17 +153,13 @@ We will never:
 
 ---
 
-```
-▄▄▄▄▄ ▄ .▄▄▄▄ .    ·▄▄▄▄• ▄▌▄▄▄▄▄▄• ▄▌▄▄▄  ▄▄▄ .
-•██  ██▪▐█▀▄.▀·    ▐▄▄·█▪██▌•██  █▪██▌▀▄ █·▀▄.▀·
- ▐█.▪██▀▐█▐▀▀▪▄    ██▪ █▌▐█▌ ▐█.▪█▌▐█▌▐▀▀▄ ▐▀▀▪▄
- ▐█▌·██▌▐▀▐█▄▄▌    ██▌.▐█▄█▌ ▐█▌·▐█▄█▌▐█•█▌▐█▄▄▌
- ▀▀▀ ▀▀▀ · ▀▀▀     ▀▀▀  ▀▀▀  ▀▀▀  ▀▀▀ .▀  ▀ ▀▀▀ 
-
-HELP US CREATE IT
-```
+## THE FUTURE
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI5cjlueTNzNmE3NTI0dWJrMXczNDZrbzVnNDAzNnkxcWc2Z2R2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsF1FSDbjguis/giphy.gif" width="500" alt="Future">
+
+### /// HELP US CREATE IT ///
+
+---
 
 Teachers control their tools.  
 Students own their data.  
