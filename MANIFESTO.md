@@ -52,7 +52,7 @@ def practice_negative_visualization():
 
 ---
 
-> _[@khthondev](https://github.com/khthondev) — That's just the foundation for the future [CONTRIBUTING.md](CONTRIBUTING.md)_ 
+> _[@khthondev](https://github.com/khthondev) — That's just the foundation for the future of education, and all cool cats and kittens are welcome. Here's how you can contribute — [CONTRIBUTING.md](CONTRIBUTING.md)_ 
 
 ---
 
