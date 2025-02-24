@@ -36,9 +36,9 @@
 
 # SOLUTION
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif" width="500" alt="Punk Pals">
+### DIY EDUCATION TOOLS BUILT BY THE COMMUNITY, FOR THE COMMUNITY
 
-### /// DIY EDUCATION TOOLS BUILT BY THE COMMUNITY, FOR THE COMMUNITY ///
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif" width="500" alt="Punk Pals">
 
 ---
 
@@ -84,9 +84,9 @@
 
 # MOVEMENT
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3cW1tbDY5aWp0aHpiMnU3cTB6ZW02eHVhNXozMDRhcGhibzludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yI8xR98IR2t1e/giphy.gif" width="500" alt="The Dance">
+### SHARE KNOWLEDGE AND SPREAD LOVE
 
-### /// SHARE KNOWLEDGE AND SPREAD LOVE ///
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3cW1tbDY5aWp0aHpiMnU3cTB6ZW02eHVhNXozMDRhcGhibzludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yI8xR98IR2t1e/giphy.gif" width="500" alt="The Dance">
 
 ---
 
@@ -109,9 +109,9 @@
 
 # HOW TO JOIN
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RpeDk2aHM1dmo0aHRjdHk2aWdvYzMwMmdtMGhqOHJnc2xqOGQ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoCDk7fecj2dwCtSB3/giphy.gif" width="500" alt="Come On">
+### EDUPUNK OS IS NOT ONLY SOFTWARE; IT'S THE PEOPLE WHO CARE. AND WE NEED YOUR HELP
 
-### /// EDUPUNK OS IS NOT ONLY SOFTWARE; IT'S THE PEOPLE WHO CARE. AND WE NEED YOUR HELP ///
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RpeDk2aHM1dmo0aHRjdHk2aWdvYzMwMmdtMGhqOHJnc2xqOGQ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoCDk7fecj2dwCtSB3/giphy.gif" width="500" alt="Come On">
 
 ---
 
@@ -138,9 +138,9 @@
 
 # OUR PROMISE
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlyaTJ2enBoZDV2NWlpNDF4YndzbGZyYWJ6NGhxcDdkazZ5ZzVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cu7tfLe1edy3HE7JfC/giphy.gif" width="500" alt="Promise">
+### NO CORPORATE BS
 
-### /// NO CORPORATE BS ///
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlyaTJ2enBoZDV2NWlpNDF4YndzbGZyYWJ6NGhxcDdkazZ5ZzVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cu7tfLe1edy3HE7JfC/giphy.gif" width="500" alt="Promise">
 
 ---
 
@@ -155,9 +155,9 @@ We will never:
 
 # THE FUTURE
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI5cjlueTNzNmE3NTI0dWJrMXczNDZrbzVnNDAzNnkxcWc2Z2R2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsF1FSDbjguis/giphy.gif" width="500" alt="Future">
+### HELP US CREATE IT
 
-### /// HELP US CREATE IT ///
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI5cjlueTNzNmE3NTI0dWJrMXczNDZrbzVnNDAzNnkxcWc2Z2R2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsF1FSDbjguis/giphy.gif" width="500" alt="Future">
 
 ---
 
