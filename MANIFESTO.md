@@ -127,12 +127,12 @@ def focus_on_now():
 ---
 
 1. **Star & Fork**
-   ```bash
-   git clone https://github.com/edupunk-os/core
-   cd core
-   npm install
-   npm run dev
-   ```
+```bash
+git clone https://github.com/edupunk-os/core
+cd core
+npm install
+npm run dev
+```
 
 2. **Contribute**
 - **Code:** Pick an issue, submit PRs
