@@ -10,7 +10,8 @@
 CORPORATE EDTECH HAS MUTATED FROM A TEACHING
 AID INTO A MULTI-BILLION DOLLAR PARASITE
 ```
-
+![MxPx Wedding Cake](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif)
+---
 ### Bloatware That Kills Learning
 - You need multiple training sessions just to grade homework
 - Most features exist to impress admin demos, not help teachers
@@ -39,9 +40,8 @@ AID INTO A MULTI-BILLION DOLLAR PARASITE
 DIY EDUCATION TOOLS BUILT BY
 THE COMMUNITY FOR THE COMMUNITY
 ```
-
 ![LA Punk](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif)
-
+---
 ### Core Principles
 1. **Teacher Autonomy**
 - Design for actual classrooms, not boardrooms
