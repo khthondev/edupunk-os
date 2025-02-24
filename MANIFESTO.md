@@ -10,7 +10,9 @@
 
 ---
 
-> I've been researching this, but the numbers keep changing, and it's often difficult to find the perfect research fit.  So, I left the research links out of the Manifesto.  Data scientists are welcome to collaborate and contribute their expertise! If you're keen to help the community and do some research, check out RESEARCH.md. — _Tim the Punk Rocker_
+> I've been researching this, but the numbers keep changing, and it's often difficult to find the perfect research fit.  So, I left the research links out of the Manifesto.  Data scientists are welcome to collaborate and contribute their expertise! If you're keen to help the community and do some research, check out [RESEARCH.md](RESEARCH.md). — _Tim the Punk Rocker_
+
+---
 
 ### Bloatware That Kills Learning
 - You need multiple training sessions just to grade homework
@@ -32,18 +34,11 @@
 
 ---
 
-```
-.▄▄ ·       ▄▄▌  ▄• ▄▌▄▄▄▄▄▪         ▐ ▄ 
-▐█ ▀. ▪     ██•  █▪██▌•██  ██ ▪     •█▌▐█
-▄▀▀▀█▄ ▄█▀▄ ██▪  █▌▐█▌ ▐█.▪▐█· ▄█▀▄ ▐█▐▐▌
-▐█▄▪▐█▐█▌.▐▌▐█▌▐▌▐█▄█▌ ▐█▌·▐█▌▐█▌.▐▌██▐█▌
- ▀▀▀▀  ▀█▄▀▪.▀▀▀  ▀▀▀  ▀▀▀ ▀▀▀ ▀█▄▀▪▀▀ █▪
-
-DIY EDUCATION TOOLS BUILT BY
-THE COMMUNITY FOR THE COMMUNITY
-```
+## SOLUTION
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif" width="500" alt="Punk Pals">
+
+[ DIY EDUCATION TOOLS BUILT BY THE COMMUNITY FOR THE COMMUNITY ]
 
 ### Core Principles
 1. **Teacher Autonomy**
