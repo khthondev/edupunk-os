@@ -119,7 +119,6 @@ npm run dev
 3. **Spread the Word**
 - Share your deployment
 - Join our Discord
-<!-- - Come to meetups -->
 
 4. **Keep the Oath**
 ```bash
