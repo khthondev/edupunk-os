@@ -66,7 +66,7 @@
 
 ---
 
-> _[@khthondev](https://github.com/khthondev) — That's my core stack, but you can check out CONTRIBUTING.md for more details on how you can contribute to the project beyond the basic setup. All devs, assemble!_ 
+> _[@khthondev](https://github.com/khthondev) — That's my core stack, but you can check out [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how you can contribute to the project beyond the basic setup. All devs, assemble!_ 
 
 ---
 
