@@ -65,6 +65,8 @@ Corporate EdTech has mutated from a teaching aid into a multi-billion dollar par
 
 ## The Movement
 
+![LA Punk](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif)
+
 ### For Teachers
 - Deploy in minutes, not months
 - Own your classroom tools
@@ -81,6 +83,8 @@ Corporate EdTech has mutated from a teaching aid into a multi-billion dollar par
 - Build with purpose
 
 ## How to Join
+
+![LA Punk](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif)
 
 1. **Star & Fork**
    ```bash
@@ -103,6 +107,8 @@ Corporate EdTech has mutated from a teaching aid into a multi-billion dollar par
 
 ## Our Promise
 
+![LA Punk](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif)
+
 We will never:
 - Sell student data
 - Lock features behind paywalls
@@ -111,6 +117,8 @@ We will never:
 - Hide our code
 
 ## The Future We're Building
+
+![LA Punk](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif)
 
 Teachers control their tools.  
 Students own their data.  
