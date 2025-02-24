@@ -30,6 +30,8 @@ AID INTO A MULTI-BILLION DOLLAR PARASITE
 - "Free" tools secretly harvest student data for profit
 - Teachers buy basic features with their own money
 
+---
+
 ```
 .▄▄ ·       ▄▄▌  ▄• ▄▌▄▄▄▄▄▪         ▐ ▄ 
 ▐█ ▀. ▪     ██•  █▪██▌•██  ██ ▪     •█▌▐█
