@@ -3,6 +3,12 @@
 ## The Problem
 Corporate EdTech has mutated from a teaching aid into a multi-billion dollar parasite:
 
+/////////////////////////////////////////
+//                                     //
+//        T H E  P R O B L E M         //
+//                                     //
+/////////////////////////////////////////
+
 ### Bloatware That Kills Learning
 - You need multiple training sessions just to grade homework
 - Most features exist to impress admin demos, not help teachers
