@@ -122,7 +122,9 @@ npm run dev
 
 4. **Keep the Oath**
 ```bash
-As a true edupunk, I promise not to:
+As a true edupunk,
+I promise not to:
+
 - Sell student data
 - Lock features behind paywalls
 - Put investors before users
