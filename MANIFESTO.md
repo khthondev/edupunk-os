@@ -133,20 +133,20 @@ As a true edupunk, I promise not to:
 
 ---
 
+# THE FUTURE
+
+### HELP US CREATE IT
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI5cjlueTNzNmE3NTI0dWJrMXczNDZrbzVnNDAzNnkxcWc2Z2R2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsF1FSDbjguis/giphy.gif" width="350" alt="Future">
+
+---
+
 ```bash
 def focus_on_now():
     """The present moment is all you have; neither future nor past exists now."""
     distractions = {"past": 8, "future": 4, "present": 7}
     return distractions["present"] - distractions["future"]
 ```
-
----
-
-# THE FUTURE
-
-### HELP US CREATE IT
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI5cjlueTNzNmE3NTI0dWJrMXczNDZrbzVnNDAzNnkxcWc2Z2R2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsF1FSDbjguis/giphy.gif" width="350" alt="Future">
 
 ---
 
