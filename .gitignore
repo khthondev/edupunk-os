@@ -21,3 +21,7 @@ Icon?
 
 # Project-specific files
 *notes.txt
+
+# For curious minds
+mystery-bot.py
+venv/
