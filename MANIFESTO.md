@@ -109,6 +109,16 @@ def accept_what_you_cannot_control():
 
 ---
 
+```bash
+# Present Moment
+def focus_on_now():
+    """The present moment is all you have; neither future nor past exists now."""
+    distractions = {"past": 8, "future": 4, "present": 7}
+    return distractions["present"] - distractions["future"]
+```
+
+---
+
 # HOW TO JOIN
 
 ### EDUPUNK OS IS NOT ONLY SOFTWARE; IT'S THE PEOPLE WHO CARE. AND WE NEED YOUR HELP
