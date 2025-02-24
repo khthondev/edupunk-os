@@ -2,7 +2,7 @@
 
 ---
 
-# THE PROBLEM
+# PROBLEM
 
 ### CORPORATE EDTECH HAS MUTATED FROM A TEACHING AID INTO A MULTI-BILLION DOLLAR PARASITE
 
@@ -45,7 +45,7 @@ def practice_negative_visualization():
 
 ---
 
-# SOLUTION
+# MOVENT TO FIND SOLUTION
 
 ### DIY EDUCATION TOOLS BUILT BY THE COMMUNITY, FOR THE COMMUNITY
 
@@ -57,21 +57,31 @@ def practice_negative_visualization():
 
 ---
 
-### Core Principles
+#### Core Principles
+
 1. **Teacher Autonomy**
-- Design for actual classrooms, not boardrooms
-- Put control back in teachers' hands
-- Simple tools that just work
+- Designed for real classrooms
+- Empower teachers
+- Simple, functional tools
+- Quick deployment
+- Control your classroom tools
+- Customizable
 
 2. **Student Privacy**
-- Zero tracking by default
-- Your data stays on your servers
-- Self-hosted AI that respects privacy
+- No tracking by default
+- Data stays on your servers
+- Private, self-hosted AI
+- Privacy is essential
+- Fast, reliable access
+- No surveillance
 
 3. **Community Ownership**
-- AGPLv3 licensed (forever free, forever open)
-- Community-driven roadmap
-- Transparent decision making
+- AGPLv3 licensed (free and open source)
+- Community roadmap
+- Transparent decisions
+- Well-documented code
+- Solve real problems
+- Purpose-driven development
 
 ---
 
@@ -80,40 +90,6 @@ def accept_what_you_cannot_control():
     """Wisdom lies in distinguishing between what you can and cannot change."""
     stoic_value = 6
     return stoic_value * len("accept")
-```
-
----
-
-# MOVEMENT
-
-### SHARE KNOWLEDGE AND SPREAD LOVE
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3cW1tbDY5aWp0aHpiMnU3cTB6ZW02eHVhNXozMDRhcGhibzludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yI8xR98IR2t1e/giphy.gif" width="350" alt="The Dance">
-
----
-
-### For Teachers
-- Deploy in minutes, not months
-- Own your classroom tools
-- Build your way
-
-### For Students
-- Privacy is non-negotiable
-- Fast, reliable access
-- No surveillance
-
-### For Developers
-- Clean, documented code
-- Solve real problems
-- Build with purpose
-
----
-
-```bash
-def focus_on_now():
-    """The present moment is all you have; neither future nor past exists now."""
-    distractions = {"past": 8, "future": 4, "present": 7}
-    return distractions["present"] - distractions["future"]
 ```
 
 ---
@@ -145,22 +121,24 @@ npm run dev
 - Join our Discord
 <!-- - Come to meetups -->
 
----
-
-# OUR PROMISE
-
-### NO CORPORATE BS
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlyaTJ2enBoZDV2NWlpNDF4YndzbGZyYWJ6NGhxcDdkazZ5ZzVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cu7tfLe1edy3HE7JfC/giphy.gif" width="350" alt="Promise">
-
----
-
-We will never:
+4. **Keep the Oath**
+```bash
+As a true edupunk, I promise not to:
 - Sell student data
 - Lock features behind paywalls
 - Put investors before users
 - Compromise on privacy
-- Hide our code
+- Hide my code
+```
+
+---
+
+```bash
+def focus_on_now():
+    """The present moment is all you have; neither future nor past exists now."""
+    distractions = {"past": 8, "future": 4, "present": 7}
+    return distractions["present"] - distractions["future"]
+```
 
 ---
 
