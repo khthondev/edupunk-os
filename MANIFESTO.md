@@ -131,7 +131,7 @@ I promise not to:
 - Compromise on privacy
 - Hide my code
 
-[edupunk_name]
+[your_edupunk_name]
 ```
 
 ---
