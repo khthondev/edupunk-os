@@ -64,6 +64,12 @@
 - **AI:** Ollama + LangChain
 - **Auth:** Magic Links + OAuth2
 
+---
+
+> _[@khthondev](https://github.com/khthondev) — That's my core stack, but you can check out CONTRIBUTING.md for more details on how you can contribute to the project beyond the basic setup. All devs, assemble!_ 
+
+---
+
 ### Features That Matter
 1. **Course Dashboard**
 - One-click access to everything
