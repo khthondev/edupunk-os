@@ -27,19 +27,19 @@ Corporate EdTech has mutated from a teaching aid into a multi-billion dollar par
 
 ### Core Principles
 1. **Teacher Autonomy**
-   - Design for actual classrooms, not boardrooms
-   - Put control back in teachers' hands
-   - Simple tools that just work
+- Design for actual classrooms, not boardrooms
+- Put control back in teachers' hands
+- Simple tools that just work
 
 2. **Student Privacy**
-   - Zero tracking by default
-   - Your data stays on your servers
-   - Self-hosted AI that respects privacy
+- Zero tracking by default
+- Your data stays on your servers
+- Self-hosted AI that respects privacy
 
 3. **Community Ownership**
-   - AGPLv3 licensed (forever free, forever open)
-   - Community-driven roadmap
-   - Transparent decision making
+- AGPLv3 licensed (forever free, forever open)
+- Community-driven roadmap
+- Transparent decision making
 
 ### Technical Foundation
 - **Frontend:** Next.js + Tailwind + shadcn/ui
@@ -49,19 +49,19 @@ Corporate EdTech has mutated from a teaching aid into a multi-billion dollar par
 
 ### Features That Matter
 1. **Course Dashboard**
-   - One-click access to everything
-   - Works without internet
-   - No pointless clicking
+- One-click access to everything
+- Works without internet
+- No pointless clicking
 
 2. **Assignment System**
-   - Write in Markdown
-   - Catch plagiarism locally
-   - Grade fairly and quickly
+- Write in Markdown
+- Catch plagiarism locally
+- Grade fairly and quickly
 
 3. **DIY AI Tutor**
-   - Run AI on your terms
-   - Keep data private
-   - Customize everything
+- Run AI on your terms
+- Keep data private
+- Customize everything
 
 ## The Movement
 
@@ -91,15 +91,15 @@ Corporate EdTech has mutated from a teaching aid into a multi-billion dollar par
    ```
 
 2. **Contribute**
-   - **Code:** Pick an issue, submit PRs
-   - **Design:** Improve UX, create assets
-   - **Test:** Break things, report bugs
-   - **Document:** Help others learn
+- **Code:** Pick an issue, submit PRs
+- **Design:** Improve UX, create assets
+- **Test:** Break things, report bugs
+- **Document:** Help others learn
 
 3. **Spread the Word**
-   - Share your deployment
-   - Join our Discord
-   - Come to meetups
+- Share your deployment
+- Join our Discord
+- Come to meetups
 
 ## Our Promise
 
