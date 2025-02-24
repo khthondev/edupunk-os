@@ -7,7 +7,7 @@
  ▐█▌·██▌▐▀▐█▄▄▌    ▐█▪·•▐█•█▌▐█▌.▐▌██▄▪▐█▐█▌▐▌▐█▄▄▌██ ██▌▐█▌
  ▀▀▀ ▀▀▀ · ▀▀▀     .▀   .▀  ▀ ▀█▄▀▪·▀▀▀▀ .▀▀▀  ▀▀▀ ▀▀  █▪▀▀▀
 
-CORPORATE EDUTECH HAS MUTATED FROM A TEACHING
+CORPORATE EDTECH HAS MUTATED FROM A TEACHING
 AID INTO A MULTI-BILLION DOLLAR PARASITE:
 ```
 
