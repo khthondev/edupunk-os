@@ -35,7 +35,6 @@
 ---
 
 ```bash
-# Negative Visualization
 def practice_negative_visualization():
     """Contemplate what you have to lose, to better appreciate what you have."""
     worst_case = 0
@@ -77,7 +76,6 @@ def practice_negative_visualization():
 ---
 
 ```bash
-# Acceptance
 def accept_what_you_cannot_control():
     """Wisdom lies in distinguishing between what you can and cannot change."""
     stoic_value = 6
