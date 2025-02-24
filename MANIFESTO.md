@@ -160,7 +160,6 @@ Education stays free and open.
 
 **THIS ISN'T JUST SOFTWARE**  
 **THIS IS EDUCATION RECLAIMED**
-
 **THIS EDUPUNK OS**
 
 ---
