@@ -8,7 +8,7 @@
  ▀▀▀ ▀▀▀ · ▀▀▀     .▀   .▀  ▀ ▀█▄▀▪·▀▀▀▀ .▀▀▀  ▀▀▀ ▀▀  █▪▀▀▀
 
 CORPORATE EDTECH HAS MUTATED FROM A TEACHING
-AID INTO A MULTI-BILLION DOLLAR PARASITE:
+AID INTO A MULTI-BILLION DOLLAR PARASITE
 ```
 
 ### Bloatware That Kills Learning
