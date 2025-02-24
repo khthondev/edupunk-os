@@ -1,5 +1,7 @@
 <img src="assets/edupunk-os-manifesto@2x.png" srcset="assets/edupunk-os-manifesto@1x.png 1x, assets/edupunk-os-manifesto@2x.png 2x" alt="Edupunk Manifesto Cover">
 
+---
+
 ```
  ▄▄▄·▄▄▄        ▄▄▄▄· ▄▄▌  ▄▄▄ .• ▌ ▄ ·. 
 ▐█ ▄█▀▄ █·▪     ▐█ ▀█▪██•  ▀▄.▀··██ ▐███▪
