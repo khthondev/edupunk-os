@@ -9,11 +9,13 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif" width="350" alt="Wedding Cake">
 
 ```bash
-# Acceptance
-def accept_what_you_cannot_control():
-    """Wisdom lies in distinguishing between what you can and cannot change."""
-    stoic_value = 6
-    return stoic_value * len("accept")
+# Negative Visualization
+def practice_negative_visualization():
+    """Contemplate what you have to lose, to better appreciate what you have."""
+    worst_case = 0
+    for i in range(1, 5):
+        worst_case += i
+    return worst_case + 1
 ```
 
 ---
