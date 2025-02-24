@@ -163,4 +163,4 @@ Education stays free and open.
 <img src="assets/edupunk-hand-logo.png" width="150px">
 
 *Fork it. Share it. Make it better. Learn to see*  
-[github.com/edupunk-os](https://github.com/edupunk-os)
+[github.com/khthondev/edupunk-os](https://github.com/khthondev/edupunk-os)
