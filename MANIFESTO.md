@@ -32,6 +32,8 @@
 - "Free" tools secretly harvest student data for profit
 - Teachers buy basic features with their own money
 
+---
+
 ```bash
 # Negative Visualization
 def practice_negative_visualization():
