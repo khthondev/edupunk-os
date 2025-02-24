@@ -1,6 +1,6 @@
 <img src="assets/edupunk-os-manifesto@2x.png" srcset="assets/edupunk-os-manifesto@1x.png 1x, assets/edupunk-os-manifesto@2x.png 2x" alt="Edupunk Manifesto Cover">
 
-![MxPx Wedding Cake](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif" width="250" alt="MxPx Wedding Cake">
 ---
 ```
  ▄▄▄·▄▄▄        ▄▄▄▄· ▄▄▌  ▄▄▄ .• ▌ ▄ ·. 
