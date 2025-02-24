@@ -111,7 +111,7 @@
 
 ### EDUPUNK OS IS NOT ONLY SOFTWARE; IT'S THE PEOPLE WHO CARE. AND WE NEED YOUR HELP
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RpeDk2aHM1dmo0aHRjdHk2aWdvYzMwMmdtMGhqOHJnc2xqOGQ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoCDk7fecj2dwCtSB3/giphy.gif" width="500" alt="Come On">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNqcDQza2xrYzUxYnZ0bnlxYTQ1cm5waW5jMXRiZm1uMm56anQ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHs1lBhZWaK5rj7lt3/giphy.gif" width="500" alt="Come On">
 
 ---
 
