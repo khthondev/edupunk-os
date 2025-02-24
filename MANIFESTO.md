@@ -160,7 +160,7 @@ Education stays free and open.
 
 ---
 
-*Fork it. Share it. Make it better.*  
-[github.com/edupunk-os](https://github.com/edupunk-os)
+<img src="assets/edupunk-hand-logo.png" width="200px">
 
-<img src="assets/edupunk-hand-logo.png" width="100px">
+*Fork it. Share it. Make it better. Learn to see*  
+[github.com/edupunk-os](https://github.com/edupunk-os)
