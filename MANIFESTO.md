@@ -1,57 +1,126 @@
 <img src="assets/edupunk-os-manifesto@2x.png" srcset="assets/edupunk-os-manifesto@1x.png 1x, assets/edupunk-os-manifesto@2x.png 2x" alt="Edupunk Manifesto Cover">
 
 ## The Problem
-Corporate EdTech is a $300B scam:
-- **Bloatware** that teachers need a PhD to operate
-- **Surveillance** masked as "learning analytics"
-- **VC Puppetry** forcing founders to prioritize exits over impact
+Corporate EdTech has mutated from a teaching aid into a multi-billion dollar parasite:
 
-## Supporting Facts
-### **Bloatware**  
-- **8-12 clicks** required for basic tasks in typical LMS ([Nielsen Norman Group, 2024](https://www.nngroup.com)).
-- **32%** of LMS features never used in typical deployments ([Gartner, 2024](https://www.gartner.com/en/education)).
+### Bloatware That Kills Learning
+- You need multiple training sessions just to grade homework
+- Most features exist to impress admin demos, not help teachers
+- Simple tasks require navigating through endless menus
+- Updates constantly break working workflows
 
-### **Surveillance**  
-- **60%** of K-12 apps share or sell student data to third parties ([Me2B Alliance, 2024](https://me2ba.org/research)).  
-- **AI proctoring** shows **23%** higher error rates for non-white students ([Stanford AI Lab, 2024](https://ai.stanford.edu/research)).  
+### Privacy Nightmare
+- Student data gets harvested and sold as "learning analytics"
+- AI systems discriminate against minority students
+- Every click, submission, and interaction gets logged and analyzed
+- Third-party trackers lurk in every corner
 
-### **Financial Exploitation**  
-- **$51.3B/year** wasted globally on EdTech tools teachers don't effectively use ([McKinsey, 2024](https://www.mckinsey.com/industries/education)).
-- **67%** of teachers report mandatory EdTech tools interfere with instruction time ([Education Week, 2024](https://www.edweek.org/technology)).
+### Financial Drain
+- Schools waste budgets on features teachers never use
+- Districts get locked into expensive multi-year contracts
+- "Free" tools secretly harvest student data for profit
+- Teachers buy basic features with their own money
 
-## The Rebellion
-We’re done asking permission to fix education.
+## The Solution: DIY Education Tools
 
 ![LA Punk](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif)
 
-**Edupunk OS is an open-source revolt.**  
-Build tools that:  
-- **Cost $0 to deploy** (no SaaS subscriptions)  
-- **Self-host AI** (no OpenAI API prisons)  
-- **Lock down equity** (no investor hijackings)  
+### Core Principles
+1. **Teacher Autonomy**
+   - Design for actual classrooms, not boardrooms
+   - Put control back in teachers' hands
+   - Simple tools that just work
 
-Our weapons:  
-- Next.js + Supabase + Ollama  
-- Teacher-approved UX  
-- Apache 2.0 License (freedom over "IP")
+2. **Student Privacy**
+   - Zero tracking by default
+   - Your data stays on your servers
+   - Self-hosted AI that respects privacy
 
-## Principles  
-1. **Privacy First**  
-   Zero tracking. Student data stays on *their* servers.  
-2. **Founder Sovereignty**  
-   Build sustainable tools without VC approval.  
-3. **Community > Corporations**
-   Code is open. Decisions are public. Profits are shared.
+3. **Community Ownership**
+   - AGPLv3 licensed (forever free, forever open)
+   - Community-driven roadmap
+   - Transparent decision making
 
-## The Target
-**Phase 1:** Replace Canvas/Blackboard with a self-hosted LMS that:
-- Teachers can set up in 10 minutes
-- Costs less than a classroom pencil sharpener
-- Doesn’t sell student data to advertisers
+### Technical Foundation
+- **Frontend:** Next.js + Tailwind + shadcn/ui
+- **Backend:** Supabase + PostgreSQL
+- **AI:** Ollama + LangChain
+- **Auth:** Magic Links + OAuth2
 
-## Join the Resistance
-1. **Star this repo** → Show Big EdTech we’re coming.
-2. **Contribute code** → Frontend, backend, AI, docs – all welcome. Check out the [Contributing Guide](CONTRIBUTING.md).
-3. **Spread the word** → Share this manifesto like a digital Molotov.
+### Features That Matter
+1. **Course Dashboard**
+   - One-click access to everything
+   - Works without internet
+   - No pointless clicking
 
-**This isn’t software. It’s a revolution.**
+2. **Assignment System**
+   - Write in Markdown
+   - Catch plagiarism locally
+   - Grade fairly and quickly
+
+3. **DIY AI Tutor**
+   - Run AI on your terms
+   - Keep data private
+   - Customize everything
+
+## The Movement
+
+### For Teachers
+- Deploy in minutes, not months
+- Own your classroom tools
+- Build your way
+
+### For Students
+- Privacy is non-negotiable
+- Fast, reliable access
+- No surveillance
+
+### For Developers
+- Clean, documented code
+- Solve real problems
+- Build with purpose
+
+## How to Join
+
+1. **Star & Fork**
+   ```bash
+   git clone https://github.com/edupunk-os/core
+   cd core
+   npm install
+   npm run dev
+   ```
+
+2. **Contribute**
+   - **Code:** Pick an issue, submit PRs
+   - **Design:** Improve UX, create assets
+   - **Test:** Break things, report bugs
+   - **Document:** Help others learn
+
+3. **Spread the Word**
+   - Share your deployment
+   - Join our Discord
+   - Come to meetups
+
+## Our Promise
+
+We will never:
+- Sell student data
+- Lock features behind paywalls
+- Put investors before users
+- Compromise on privacy
+- Hide our code
+
+## The Future We're Building
+
+Teachers control their tools.  
+Students own their data.  
+Communities shape the roadmap.  
+Education stays free and open.
+
+**This isn't just software.**  
+**This is education reclaimed.**
+
+---
+
+*Fork it. Share it. Make it better.*  
+[github.com/edupunk-os](https://github.com/edupunk-os)
