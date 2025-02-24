@@ -118,11 +118,11 @@ SHARE KNOWLEDGE AND SPREAD LOVE
 ---
 
 ```
-#   ▄ .▄      ▄▄▌ ▐ ▄▌    ▄▄▄▄▄           ▐▄▄▄      ▪   ▐ ▄ 
-#  ██▪▐█▪     ██· █▌▐█    •██  ▪           ·██▪     ██ •█▌▐█
-#  ██▀▐█ ▄█▀▄ ██▪▐█▐▐▌     ▐█.▪ ▄█▀▄     ▪▄ ██ ▄█▀▄ ▐█·▐█▐▐▌
-#  ██▌▐▀▐█▌.▐▌▐█▌██▐█▌     ▐█▌·▐█▌.▐▌    ▐▌▐█▌▐█▌.▐▌▐█▌██▐█▌
-#  ▀▀▀ · ▀█▄▀▪ ▀▀▀▀ ▀▪     ▀▀▀  ▀█▄▀▪     ▀▀▀• ▀█▄▀▪▀▀▀▀▀ █▪
+ ▄ .▄      ▄▄▌ ▐ ▄▌    ▄▄▄▄▄           ▐▄▄▄      ▪   ▐ ▄ 
+██▪▐█▪     ██· █▌▐█    •██  ▪           ·██▪     ██ •█▌▐█
+██▀▐█ ▄█▀▄ ██▪▐█▐▐▌     ▐█.▪ ▄█▀▄     ▪▄ ██ ▄█▀▄ ▐█·▐█▐▐▌
+██▌▐▀▐█▌.▐▌▐█▌██▐█▌     ▐█▌·▐█▌.▐▌    ▐▌▐█▌▐█▌.▐▌▐█▌██▐█▌
+▀▀▀ · ▀█▄▀▪ ▀▀▀▀ ▀▪     ▀▀▀  ▀█▄▀▪     ▀▀▀• ▀█▄▀▪▀▀▀▀▀ █▪
 
 EDUPUNK OS IS NOT ONLY SOFTWARE:
 IT'S THE PEOPLE WHO CARE.
@@ -158,6 +158,8 @@ AND WE NEED YOUR HELP
  ▄█▀▄ █▌▐█▌▐▀▀▄      ██▀·▐▀▀▄  ▄█▀▄ ▐█ ▌▐▌▐█·▐█·▄▀▀▀█▄▐▀▀▪▄
 ▐█▌.▐▌▐█▄█▌▐█•█▌    ▐█▪·•▐█•█▌▐█▌.▐▌██ ██▌▐█▌▐█▌▐█▄▪▐█▐█▄▄▌
  ▀█▄▀▪ ▀▀▀ .▀  ▀    .▀   .▀  ▀ ▀█▄▀▪▀▀  █▪▀▀▀▀▀▀ ▀▀▀▀  ▀▀▀ 
+
+NO CORPORATE BS
 ```
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlyaTJ2enBoZDV2NWlpNDF4YndzbGZyYWJ6NGhxcDdkazZ5ZzVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cu7tfLe1edy3HE7JfC/giphy.gif" width="500" alt="Promise">
@@ -177,6 +179,8 @@ We will never:
  ▐█.▪██▀▐█▐▀▀▪▄    ██▪ █▌▐█▌ ▐█.▪█▌▐█▌▐▀▀▄ ▐▀▀▪▄
  ▐█▌·██▌▐▀▐█▄▄▌    ██▌.▐█▄█▌ ▐█▌·▐█▄█▌▐█•█▌▐█▄▄▌
  ▀▀▀ ▀▀▀ · ▀▀▀     ▀▀▀  ▀▀▀  ▀▀▀  ▀▀▀ .▀  ▀ ▀▀▀ 
+
+HELP US CREATE IT
 ```
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI5cjlueTNzNmE3NTI0dWJrMXczNDZrbzVnNDAzNnkxcWc2Z2R2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsF1FSDbjguis/giphy.gif" width="500" alt="Future">
