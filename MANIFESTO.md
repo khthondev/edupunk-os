@@ -76,6 +76,16 @@ def practice_negative_visualization():
 
 ---
 
+```bash
+# Acceptance
+def accept_what_you_cannot_control():
+    """Wisdom lies in distinguishing between what you can and cannot change."""
+    stoic_value = 6
+    return stoic_value * len("accept")
+```
+
+---
+
 # MOVEMENT
 
 ### SHARE KNOWLEDGE AND SPREAD LOVE
