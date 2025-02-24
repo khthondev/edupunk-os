@@ -110,7 +110,6 @@ def accept_what_you_cannot_control():
 ---
 
 ```bash
-# Present Moment
 def focus_on_now():
     """The present moment is all you have; neither future nor past exists now."""
     distractions = {"past": 8, "future": 4, "present": 7}
