@@ -2,6 +2,24 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif" width="250" alt="MxPx Wedding Cake">
 
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 50%; padding: 10px;">
+    <!-- Column 1 content -->
+    <h3>Column 1</h3>
+    <p>This is the first column content.</p>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+    </ul>
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    <!-- Column 2 content -->
+    <h3>Column 2</h3>
+    <p>This is the second column content.</p>
+    <img src="https://example.com/image.jpg" alt="Example image">
+  </div>
+</div>
+
 ```
  ▄▄▄·▄▄▄        ▄▄▄▄· ▄▄▌  ▄▄▄ .• ▌ ▄ ·. 
 ▐█ ▄█▀▄ █·▪     ▐█ ▀█▪██•  ▀▄.▀··██ ▐███▪
