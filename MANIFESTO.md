@@ -155,12 +155,12 @@ Students own their data.
 Communities shape the roadmap.  
 Education stays free and open.
 
-**This isn't just software.**  
-**This is education reclaimed.**
+**THIS ISN'T JUST SOFTWARE**  
+**THIS IS EDUCATION RECLAIMED**
 
 ---
 
-<img src="assets/edupunk-hand-logo.png" width="200px">
+<img src="assets/edupunk-hand-logo.png" width="150px">
 
 *Fork it. Share it. Make it better. Learn to see*  
 [github.com/edupunk-os](https://github.com/edupunk-os)
