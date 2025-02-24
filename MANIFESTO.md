@@ -20,6 +20,10 @@ def practice_negative_visualization():
 
 ---
 
+> _[@khthondev](https://github.com/khthondev) — I was blown away by this stuff when I was laying down the Edupunk OS foundation. But the numbers? They're always shifting, and finding the *right* research? Forget about it. So, all you rad data scientists out there, your skills are needed! Wanna help the scene and dig into some research? Check it [RESEARCH.md](RESEARCH.md)_
+
+---
+
 ### Bloatware That Kills Learning
 - You need multiple training sessions just to grade homework
 - Most features exist to impress admin demos, not help teachers
@@ -37,12 +41,6 @@ def practice_negative_visualization():
 - Districts get locked into expensive multi-year contracts
 - "Free" tools secretly harvest student data for profit
 - Teachers buy basic features with their own money
-
----
-
-> _[@khthondev](https://github.com/khthondev) — I was blown away by this stuff when I was laying down the Edupunk OS foundation. But the numbers? They're always shifting, and finding the *right* research? Forget about it. So, all you rad data scientists out there, your skills are needed! Wanna help the scene and dig into some research? Check it [RESEARCH.md](RESEARCH.md)_
-
----
 
 # SOLUTION
 
