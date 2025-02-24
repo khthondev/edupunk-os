@@ -158,7 +158,9 @@ Students own their data.
 Communities shape the roadmap.  
 Education stays free and open.
 
-**THIS ISN'T JUST SOFTWARE**  
+---
+
+**THIS ISN'T JUST SOFTWARE**
 
 **THIS IS EDUCATION RECLAIMED**
 
