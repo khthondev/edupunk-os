@@ -12,7 +12,7 @@
 CORPORATE EDTECH HAS MUTATED FROM A TEACHING
 AID INTO A MULTI-BILLION DOLLAR PARASITE
 ```
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif" width="400" alt="MxPx Wedding Cake">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif" width="500" alt="MxPx Wedding Cake">
 
 ### Bloatware That Kills Learning
 - You need multiple training sessions just to grade homework
@@ -44,7 +44,7 @@ AID INTO A MULTI-BILLION DOLLAR PARASITE
 DIY EDUCATION TOOLS BUILT BY
 THE COMMUNITY FOR THE COMMUNITY
 ```
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif" width="400" alt="LA Punk">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif" width="500" alt="LA Punk">
 
 ### Core Principles
 1. **Teacher Autonomy**
