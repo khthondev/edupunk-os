@@ -8,16 +8,6 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif" width="350" alt="Wedding Cake">
 
-```bash
-# Negative Visualization
-def practice_negative_visualization():
-    """Contemplate what you have to lose, to better appreciate what you have."""
-    worst_case = 0
-    for i in range(1, 5):
-        worst_case += i
-    return worst_case + 1
-```
-
 ---
 
 > _[@khthondev](https://github.com/khthondev) — I was blown away by this stuff when I was laying down the Edupunk OS foundation. But the numbers? They're always shifting, and finding the *right* research? Forget about it. So, all you rad data scientists out there, your skills are needed! Wanna help the scene and dig into some research? Check it [RESEARCH.md](RESEARCH.md)_
@@ -41,6 +31,18 @@ def practice_negative_visualization():
 - Districts get locked into expensive multi-year contracts
 - "Free" tools secretly harvest student data for profit
 - Teachers buy basic features with their own money
+
+```bash
+# Negative Visualization
+def practice_negative_visualization():
+    """Contemplate what you have to lose, to better appreciate what you have."""
+    worst_case = 0
+    for i in range(1, 5):
+        worst_case += i
+    return worst_case + 1
+```
+
+---
 
 # SOLUTION
 
