@@ -84,9 +84,18 @@ THE COMMUNITY FOR THE COMMUNITY
 - Keep data private
 - Customize everything
 
-## The Movement
+---
 
-![LA Punk](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif)
+```
+• ▌ ▄ ·.        ▌ ▐·▄▄▄ .• ▌ ▄ ·. ▄▄▄ . ▐ ▄ ▄▄▄▄▄
+·██ ▐███▪▪     ▪█·█▌▀▄.▀··██ ▐███▪▀▄.▀·•█▌▐█•██  
+▐█ ▌▐▌▐█· ▄█▀▄ ▐█▐█•▐▀▀▪▄▐█ ▌▐▌▐█·▐▀▀▪▄▐█▐▐▌ ▐█.▪
+██ ██▌▐█▌▐█▌.▐▌ ███ ▐█▄▄▌██ ██▌▐█▌▐█▄▄▌██▐█▌ ▐█▌·
+▀▀  █▪▀▀▀ ▀█▄▀▪. ▀   ▀▀▀ ▀▀  █▪▀▀▀ ▀▀▀ ▀▀ █▪ ▀▀▀ 
+
+SHARE KNOWLEDGE AND SPREAD LOVE
+```
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3cW1tbDY5aWp0aHpiMnU3cTB6ZW02eHVhNXozMDRhcGhibzludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yI8xR98IR2t1e/giphy.gif" width="500" alt="Jay and Silent Bob"> 
 
 ### For Teachers
 - Deploy in minutes, not months
