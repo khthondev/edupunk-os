@@ -38,7 +38,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif" width="500" alt="Punk Pals">
 
-### /// DIY EDUCATION TOOLS BUILT BY THE COMMUNITY FOR THE COMMUNITY ///
+### /// DIY EDUCATION TOOLS BUILT BY THE COMMUNITY, FOR THE COMMUNITY ///
 
 ---
 
