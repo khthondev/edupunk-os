@@ -134,6 +134,12 @@ I promise not to:
 [your_edupunk_name]
 ```
 
+5. **Spread the Word**
+
+Even if you think you have no skills, you can still contribute!
+
+Check out [LEARN.md](LEARN.md) for some great learning paths with actionable steps to implement a learning routine, even for busy people.
+
 ---
 
 # THE FUTURE
