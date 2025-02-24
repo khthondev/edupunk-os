@@ -6,9 +6,9 @@
 
 ### CORPORATE EDTECH HAS MUTATED FROM A TEACHING AID INTO A MULTI-BILLION DOLLAR PARASITE
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif" width="500" alt="Wedding Cake">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif" width="350" alt="Wedding Cake">
 
-```python
+```bash
 # Acceptance
 def accept_what_you_cannot_control():
     """Wisdom lies in distinguishing between what you can and cannot change."""
@@ -46,7 +46,7 @@ def accept_what_you_cannot_control():
 
 ### DIY EDUCATION TOOLS BUILT BY THE COMMUNITY, FOR THE COMMUNITY
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif" width="500" alt="Punk Pals">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lwdXVlcjNscDI5Y3Rxem9tN2lsc3p4cmY2aW9sZWI1bmZiNDc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUuiTFW5SzNiU/giphy.gif" width="350" alt="Punk Pals">
 
 ---
 
@@ -98,7 +98,7 @@ def accept_what_you_cannot_control():
 
 ### SHARE KNOWLEDGE AND SPREAD LOVE
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3cW1tbDY5aWp0aHpiMnU3cTB6ZW02eHVhNXozMDRhcGhibzludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yI8xR98IR2t1e/giphy.gif" width="500" alt="The Dance">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN3cW1tbDY5aWp0aHpiMnU3cTB6ZW02eHVhNXozMDRhcGhibzludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yI8xR98IR2t1e/giphy.gif" width="350" alt="The Dance">
 
 ---
 
@@ -123,7 +123,7 @@ def accept_what_you_cannot_control():
 
 ### EDUPUNK OS IS NOT ONLY SOFTWARE; IT'S THE PEOPLE WHO CARE. AND WE NEED YOUR HELP
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNqcDQza2xrYzUxYnZ0bnlxYTQ1cm5waW5jMXRiZm1uMm56anQ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHs1lBhZWaK5rj7lt3/giphy.gif" width="500" alt="Come On">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNqcDQza2xrYzUxYnZ0bnlxYTQ1cm5waW5jMXRiZm1uMm56anQ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHs1lBhZWaK5rj7lt3/giphy.gif" width="350" alt="Come On">
 
 ---
 
@@ -152,7 +152,7 @@ def accept_what_you_cannot_control():
 
 ### NO CORPORATE BS
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlyaTJ2enBoZDV2NWlpNDF4YndzbGZyYWJ6NGhxcDdkazZ5ZzVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cu7tfLe1edy3HE7JfC/giphy.gif" width="500" alt="Promise">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlyaTJ2enBoZDV2NWlpNDF4YndzbGZyYWJ6NGhxcDdkazZ5ZzVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cu7tfLe1edy3HE7JfC/giphy.gif" width="350" alt="Promise">
 
 ---
 
@@ -169,7 +169,7 @@ We will never:
 
 ### HELP US CREATE IT
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI5cjlueTNzNmE3NTI0dWJrMXczNDZrbzVnNDAzNnkxcWc2Z2R2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsF1FSDbjguis/giphy.gif" width="500" alt="Future">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI5cjlueTNzNmE3NTI0dWJrMXczNDZrbzVnNDAzNnkxcWc2Z2R2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsF1FSDbjguis/giphy.gif" width="350" alt="Future">
 
 ---
 
