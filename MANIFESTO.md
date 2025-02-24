@@ -2,11 +2,11 @@
 
 ---
 
-## THE PROBLEM
+# THE PROBLEM
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wbWFwZTM2Z3AyN2hnOWpycG5zN3VkYXAzeG1oeGJ6dnZpNXkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXPB1mCBDTpW4hMjeK/giphy.gif" width="500" alt="Wedding Cake">
 
-### /// CORPORATE EDTECH HAS MUTATED FROM A TEACHING AID INTO A MULTI-BILLION DOLLAR PARASITE ///
+## /// CORPORATE EDTECH HAS MUTATED FROM A TEACHING AID INTO A MULTI-BILLION DOLLAR PARASITE ///
 
 ---
 
@@ -14,19 +14,19 @@
 
 ---
 
-### Bloatware That Kills Learning
+## Bloatware That Kills Learning
 - You need multiple training sessions just to grade homework
 - Most features exist to impress admin demos, not help teachers
 - Simple tasks require navigating through endless menus
 - Updates constantly break working workflows
 
-### Privacy Nightmare
+## Privacy Nightmare
 - Student data gets harvested and sold as "learning analytics"
 - AI systems discriminate against minority students
 - Every click, submission, and interaction gets logged and analyzed
 - Third-party trackers lurk in every corner
 
-### Financial Drain
+## Financial Drain
 - Schools waste budgets on features teachers never use
 - Districts get locked into expensive multi-year contracts
 - "Free" tools secretly harvest student data for profit
