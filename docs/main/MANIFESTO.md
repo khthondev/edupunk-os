@@ -44,7 +44,7 @@
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** That's just the foundation for the future of education, and all cool cats and kittens are welcome. Here's how you can contribute — **[CONTRIBUTING](CONTRIBUTING.md)**_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** That's just the foundation for the future of education, and all cool cats and kittens are welcome to mosh the pit in **[CONTRIBUTING](CONTRIBUTING.md)**_
 
 ---
 
@@ -215,7 +215,7 @@ I promise not to:
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** Rome wasn't built in a day, and neither will Edupunk OS. But we're not building an empire — we're building tools for the future. Each version gets us closer to education that serves teachers and students, not shareholders_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** Rome wasn't built in a day, and neither will Edupunk OS. But we're not building an empire. We're building tools for the future. Each version gets us closer to education that serves teachers and students, not shareholders_
 
 ---
 
