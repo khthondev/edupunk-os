@@ -2,6 +2,6 @@
 
 ---
 
-> _**[@khthondev](https://github.com/khthondev)** — This page is under developement. Go back to **[THE EDUPUNK OS MANIFESTO](../main/MANIFESTO.md)**_
+> _**[@khthondev:](https://github.com/khthondev)** This page is under developement. Go back to **[THE EDUPUNK OS MANIFESTO,](../main/MANIFESTO.md)**my friend_
 
 ---
