@@ -113,7 +113,7 @@
 
 ```bash
 # Turn any old computer into an Edupunk OS server
-curl -fsSL https://edupunk-os.org/bootstrap | bash
+curl -fsSL https://edupunk-os.lol/bootstrap | bash
 ```
 
 #### FREE CLOUD OPTIONS
