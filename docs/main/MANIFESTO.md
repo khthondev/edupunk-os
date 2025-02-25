@@ -149,6 +149,11 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 
 ## JOIN THE MOVEMENT
 
+### CONTRIBUTE
+
+- Star & Fork **[EDUPUNK OS REPO](https://github.com/khthondev/edupunk-os)**
+- Join **[CONTRIBUTING MOSH PIT](CONTRIBUTING.md)**
+
 ### GET CONNECTED
 
 - Join our Discord/Matrix: [chat.edupunk-os.org](https://chat.edupunk-os.org)
