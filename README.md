@@ -1,4 +1,4 @@
-<img src="assets/edupunk-os-readme@2x.png" srcset="assets/edupunk-os-readme@1x.png 1x, assets/edupunk-os-readme@2x.png 2x" alt="Edupunk Read Me Cover">
+<img src="assets/doc-images/edupunk-os-readme@2x.png" srcset="assets/doc-images/edupunk-os-readme@1x.png 1x, assets/doc-images/edupunk-os-readme@2x.png 2x" alt="Edupunk Read Me Cover">
 
 ---
 
