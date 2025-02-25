@@ -44,7 +44,7 @@
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** That's just the foundation for the future of education, and all cool cats and kittens are welcome to mosh the pit in **[CONTRIBUTING](CONTRIBUTING.md)**_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** That's just the foundation for the future of education, and all cool contributors are welcome to **[CONTRIBUTING MOSH PIT](CONTRIBUTING.md)**_
 
 ---
 
