@@ -89,7 +89,9 @@
 
 ---
 
-### MINIMUM VIABLE PRODUCT (MVP) REQUIREMENTS
+## MINIMUM VIABLE PRODUCT
+
+### MVP REQUIREMENTS
 - **One-Command Setup:** Deploy on any machine with a single command
 - **Essential Features Only:** Assignments, submissions, feedback, grades
 - **Ultra-Lightweight:** Runs on 10+ year old hardware
