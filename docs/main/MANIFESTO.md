@@ -2,6 +2,10 @@
 
 ---
 
+> _**[@KHTHONDEV:](https://github.com/khthondev)** Kudos to Tom Kuntz for **[EDUPUNK](https://en.wikipedia.org/wiki/Edupunk)** term (being myself an edupunk for years helped me understand the world around me better) and inspiration for the **EDUPUNK OS MOVEMENT.** Tom described edupunk as 'an approach to teaching that avoids mainstream tools like PowerPoint and Blackboard, and instead aims to bring the rebellious attitude and DIY ethos of ’70s bands like The Clash to the classroom.'_
+
+---
+
 # PROBLEM
 
 ### CORPORATE EDTECH HAS MUTATED FROM A TEACHING AID INTO A MULTI-BILLION DOLLAR PARASITE
@@ -16,19 +20,19 @@
 
 ## SCARY THINGS TO SCARE KIDS
 
-### Bloatware That Kills Learning
+### BLOATWARE THAT KILLS LEARNING
 - You need multiple training sessions just to grade homework
 - Most features exist to impress admin demos, not help teachers
 - Simple tasks require navigating through endless menus
 - Updates constantly break working workflows
 
-### Privacy Nightmare
+### PRIVACY NIGHTMARE
 - Student data gets harvested and sold as "learning analytics"
 - AI systems discriminate against minority students
 - Every click, submission, and interaction gets logged and analyzed
 - Third-party trackers lurk in every corner
 
-### Financial Drain
+### FINANCIAL DRAIN
 - Schools waste budgets on features teachers never use
 - Districts get locked into expensive multi-year contracts
 - "Free" tools secretly harvest student data for profit
@@ -85,29 +89,30 @@
 
 ---
 
-### Minimum Viable Product (MVP)
+### MINIMUM VIABLE PRODUCT (MVP)
 - **One-Command Setup**: Deploy on any machine with a single command
 - **Essential Features Only**: Assignments, submissions, feedback, grades
 - **Ultra-Lightweight**: Runs on 10+ year old hardware
 - **Works Offline**: No internet required in the classroom
 - **Local-First**: Data stays on your hardware by default
 
-### Free Hosting Options
-1. **Old Hardware Revival**
-   ```bash
-   # Turn any old computer into an Edupunk server
-   curl -fsSL https://edupunk-os.org/bootstrap | bash
-   ```
+### FREE HOSTING OPTIONS
 
-2. **Free Cloud Options**
-   - Deploy on Oracle Cloud Always Free tier
-   - Run on GitHub/GitLab Pages for static components
-   - Step-by-step guides at [ZERO-COST-DEPLOY.md](ZERO-COST-DEPLOY.md)
+#### OLD HARDWARE REVIVAL
+```bash
+# Turn any old computer into an Edupunk server
+curl -fsSL https://edupunk-os.org/bootstrap | bash
+```
 
-3. **USB Classroom-in-a-Stick**
-   - Bootable USB with complete Edupunk OS
-   - No installation required - just plug and teach
-   - Works on library/lab computers
+#### FREE CLOUD OPTIONS
+- Deploy on Oracle Cloud Always Free tier
+- Run on GitHub/GitLab Pages for static components
+- Step-by-step guides at [ZERO-COST-DEPLOY.md](ZERO-COST-DEPLOY.md)
+
+#### USB CLASSROOM-IN-A-STICK
+- Bootable USB with complete Edupunk OS
+- No installation required - just plug and teach
+- Works on library/lab computers
 
 ---
 
@@ -123,27 +128,27 @@
 
 ---
 
-### Join The Movement
+### JOIN THE MOVEMENT
 
-1. **Get Connected**
+#### GET CONNECTED
    - Join our Discord/Matrix: [chat.edupunk-os.org](https://chat.edupunk-os.org)
    - Weekly community calls every Thursday
    - Monthly hackathons focused on classroom needs
    - Regional meetups to build local support networks
 
-2. **Spread The Word**
+#### SPREAD THE WORD
    - Classroom adoption toolkit: [ADOPTION.md](ADOPTION.md)
    - Printable flyers and stickers: [/assets/outreach](/assets/outreach)
    - Workshop materials for teacher training: [/docs/workshops](/docs/workshops)
    - Social media templates and hashtags: #EdupunkOS #ReclaimEducation
 
-3. **Build Together**
+#### BUILD TOGETHER
    - Teacher-developer pairing program
    - Documentation sprints (no coding required!)
    - Translation projects for global accessibility
    - Bug hunting bounties (find issues, earn swag)
 
-4. **Share Your Classroom Story**
+#### SHARE YOUR CLASSROOM STORY
    - How are you using Edupunk OS?
    - What needs improvement?
    - How has it changed your teaching?
