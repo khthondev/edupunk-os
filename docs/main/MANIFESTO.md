@@ -21,18 +21,21 @@
 ## SCARY THINGS SCARING KIDS
 
 ### BLOATWARE THAT KILLS LEARNING
+
 - You need multiple training sessions just to grade homework
 - Most features exist to impress admin demos, not help teachers
 - Simple tasks require navigating through endless menus
 - Updates constantly break working workflows
 
 ### PRIVACY NIGHTMARE
+
 - Student data gets harvested and sold as "learning analytics"
 - AI systems discriminate against minority students
 - Every click, submission, and interaction gets logged and analyzed
 - Third-party trackers lurk in every corner
 
 ### FINANCIAL DRAIN
+
 - Schools waste budgets on features teachers never use
 - Districts get locked into expensive multi-year contracts
 - "Free" tools secretly harvest student data for profit
@@ -55,13 +58,15 @@
 ## CORE PRINCIPLES
 
 ### TEACHER AUTONOMY
+
 - **Design for reality**, not admin demos
 - **Simple tools** that just work
 - **Deploy in minutes**, not months
 - **Control your classroom**, not the other way around
 - **Bend it, shape it** — everything is customizable
 
-### STUDENT PRIVACY  
+### STUDENT PRIVACY
+
 - **No tracking**, period. _(it's like sniffing underwear — obnoxious)_
 - **Your data, your servers** - not in corpo clouds
 - **Self-hosted AI** that respects boundaries
@@ -69,6 +74,7 @@
 - **Learn without being watched** — radical concept, huh?
 
 ### COMMUNITY OWNERSHIP
+
 - **AGPLv3 licensed** — forever free, forever open
 - **Users set the roadmap**, not investors
 - **Transparent decisions** — no backroom deals
@@ -92,6 +98,7 @@
 ## MINIMUM VIABLE PRODUCT
 
 ### MVP REQUIREMENTS
+
 - **One-Command Setup:** Deploy on any machine with a single command
 - **Essential Features Only:** Assignments, submissions, feedback, grades
 - **Ultra-Lightweight:** Runs on 10+ year old hardware
@@ -101,20 +108,26 @@
 ### FREE HOSTING OPTIONS
 
 #### OLD HARDWARE REVIVAL > RUN LOCALLY
-_(this is a placeholder for a future feature, and the command won't work yet, but I left it here so I wouldn't forget)_
+
+> _(this is a placeholder for a future feature, and the command won't work yet, but I left it here so I wouldn't forget)_
+
 ```bash
 # Turn any old computer into an Edupunk server
 curl -fsSL https://edupunk-os.org/bootstrap | bash
 ```
 
 #### FREE CLOUD OPTIONS
-_(this list is not exhaustive — working on it)_
+
+> _(this list is not exhaustive — working on it)_
+
 - Deploy on Oracle Cloud Always Free tier
 - Run on GitHub Pages for static components
 - Step-by-step guides at **[ZERO COST DIY DEPLOYMENT](../deploy/ZERO-COST-DEPLOY.md)**
 
 #### USB DIY CLASSROOM-IN-A-STICK
-_(oh, I really love this one)_
+
+> _(oh, I really love this one)_
+
 - Bootable USB with complete Edupunk OS
 - **No installation required** — just plug and teach
 - Works on library/lab computers
@@ -130,83 +143,39 @@ _(oh, I really love this one)_
 
 ---
 
-> _[@khthondev](https://github.com/khthondev) — The software's just a tool. It's the teachers, students, hackers, and dreamers that make this a movement. Share your classroom stories, your hacks, your frustrations. We learn together or not at all._
+> _**[@KHTHONDEV:](https://github.com/khthondev)** Software's is merely a tool. It's the teachers, students, hackers, and dreamers that make **EDUPUNK** a movement. Share your classroom stories, your hacks, your frustrations. We learn together or not at all_
 
 ---
 
-### JOIN THE MOVEMENT
+## JOIN THE MOVEMENT
 
-#### GET CONNECTED
-   - Join our Discord/Matrix: [chat.edupunk-os.org](https://chat.edupunk-os.org)
-   - Weekly community calls every Thursday
-   - Monthly hackathons focused on classroom needs
-   - Regional meetups to build local support networks
+### GET CONNECTED
 
-#### SPREAD THE WORD
-   - Classroom adoption toolkit: [ADOPTION.md](ADOPTION.md)
-   - Printable flyers and stickers: [/assets/outreach](/assets/outreach)
-   - Workshop materials for teacher training: [/docs/workshops](/docs/workshops)
-   - Social media templates and hashtags: #EdupunkOS #ReclaimEducation
+- Join our Discord/Matrix: [chat.edupunk-os.org](https://chat.edupunk-os.org)
+- Weekly community calls every Thursday
+- Monthly hackathons focused on classroom needs
+- Regional meetups to build local support networks
 
-#### BUILD TOGETHER
-   - Teacher-developer pairing program
-   - Documentation sprints (no coding required!)
-   - Translation projects for global accessibility
-   - Bug hunting bounties (find issues, earn swag)
+### SPREAD THE WORD
 
-#### SHARE YOUR CLASSROOM STORY
-   - How are you using Edupunk OS?
-   - What needs improvement?
-   - How has it changed your teaching?
-   - Submit to [STORIES.md](STORIES.md)
+- Classroom adoption toolkit: [ADOPTION.md](ADOPTION.md)
+- Printable flyers and stickers: [/assets/outreach](/assets/outreach)
+- Workshop materials for teacher training: [/docs/workshops](/docs/workshops)
+- Social media templates and hashtags: #EdupunkOS #ReclaimEducation
 
----
+### BUILD TOGETHER
 
-# HOW TO JOIN
+- Teacher-developer pairing program
+- Documentation sprints (no coding required!)
+- Translation projects for global accessibility
+- Bug hunting bounties (find issues, earn swag)
 
-### EDUPUNK OS NEEDS YOUR HELP
+### SHARE YOUR CLASSROOM STORY
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNqcDQza2xrYzUxYnZ0bnlxYTQ1cm5waW5jMXRiZm1uMm56anQ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHs1lBhZWaK5rj7lt3/giphy.gif" width="350" alt="Come On">
-
----
-
-1. **Star & Fork**
-```bash
-git clone https://github.com/edupunk-os/core
-cd core
-npm install
-npm run dev
-```
-
-2. **Contribute**
-- **Code:** Pick an issue, submit PRs
-- **Design:** Improve UX, create assets
-- **Test:** Break things, report bugs
-- **Document:** Help others learn
-
-3. **Spread the Word**
-- Share your deployment
-- Join our Discord
-
-4. **Keep the Oath**
-```bash
-As a true edupunk,
-I promise not to:
-
-- Sell student data
-- Lock features behind paywalls
-- Put investors before users
-- Compromise on privacy
-- Hide my code
-
-[your_edupunk_name]
-```
-
-5. **Start Small, Dream Big**
-
-   Even if you think you have no skills, you can still contribute!
-
-   Check out [LEARN.md](LEARN.md) for some great learning paths with actionable steps to implement a learning routine, even for busy people.
+- How are you using Edupunk OS?
+- What needs improvement?
+- How has it changed your teaching?
+- Submit to [STORIES.md](STORIES.md)
 
 ---
 

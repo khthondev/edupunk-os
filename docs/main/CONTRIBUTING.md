@@ -40,3 +40,45 @@ git clone https://github.com/khthondev/edupunk-os.git
 npm install  
 npm run dev
 ```
+
+---
+
+1. **Star & Fork**
+```bash
+git clone https://github.com/edupunk-os/core
+cd core
+npm install
+npm run dev
+```
+
+2. **Contribute**
+- **Code:** Pick an issue, submit PRs
+- **Design:** Improve UX, create assets
+- **Test:** Break things, report bugs
+- **Document:** Help others learn
+
+3. **Spread the Word**
+- Share your deployment
+- Join our Discord
+
+4. **Keep the Oath**
+```bash
+As a true edupunk,
+I promise not to:
+
+- Sell student data
+- Lock features behind paywalls
+- Put investors before users
+- Compromise on privacy
+- Hide my code
+
+[your_edupunk_name]
+```
+
+5. **Start Small, Dream Big**
+
+   Even if you think you have no skills, you can still contribute!
+
+   Check out [LEARN.md](LEARN.md) for some great learning paths with actionable steps to implement a learning routine, even for busy people.
+
+---
