@@ -73,14 +73,6 @@
 
 ---
 
-```bash
-# The system won't change itself
-chmod +x education
-./education --mode=rebellion
-```
-
----
-
 # ZERO-COST DEPLOYMENT
 
 ### GET YOUR OWN EDUPUNK LMS RUNNING IN MINUTES, NOT MONTHS
