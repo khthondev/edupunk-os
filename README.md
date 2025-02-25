@@ -4,7 +4,7 @@
 
 # PROJECT NAVIGATION
 
-1. **[MANIFESTO](docs/main/MANIFESTO.md)** _— Read about the Edupunk OS Foundation and why **[@KHTHONDEV](https://github.com/khthondev)** is building it_
+1. **[MANIFESTO](docs/main/MANIFESTO.md)** _— Read about the foundation behind Edupunk OS and why **[@KHTHONDEV](https://github.com/khthondev)** is building it_
 2. **[RESEARCH SQUAD](docs/research/RESEARCH.md)** _— Page is under development_
 3. **[CONTRIBUTING MOSH PIT](docs/main/CONTRIBUTING.md)** _— Page is under development_
 4. **[LEARN](docs/learn/LEARN.md)** _— Page is under development_
