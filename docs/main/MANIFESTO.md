@@ -192,41 +192,41 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** Rome wasn't built in a day, and neither will Edupunk OS. But we're not building an empire. We're building tools for the future. Each version gets us closer to education that serves teachers and students, not shareholders_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** Rome wasn't built in a day, and neither will Edupunk OS. We're not building an empire. We're building tools for the future. Each version gets us closer to education that serves teachers and students, not shareholders_
 
 ---
 
 ### Phase 1: MVP (1 month)
 - [ ] Basic LMS functionality
-- Assignment submission
-- Simple grading
-- Mobile-responsive design
-- Offline-first approach
+- [ ] Assignment submission
+- [ ] Simple grading
+- [ ] Mobile-responsive design
+- [ ] Offline-first approach
 
 ### Phase 2: Community Growth (3-6 months)
-- Plugin architecture
-- Theme customization
-- Expanded documentation
-- Localization for 10+ languages
-- Peer feedback tools
+- [ ] Plugin architecture
+- [ ] Theme customization
+- [ ] Expanded documentation
+- [ ] Localization for 10+ languages
+- [ ] Peer feedback tools
 
 ### Phase 3: Advanced Features (6-12 months)
-- Self-hosted AI assistance that respects privacy
-- Integration with open educational resources
-- Advanced analytics (for teachers only!)
-- Improved accessibility features
-- Learning path customization
+- [ ] Self-hosted AI assistance that respects privacy
+- [ ] Integration with open educational resources
+- [ ] Advanced analytics (for teachers only!)
+- [ ] Improved accessibility features
+- [ ] Learning path customization
 
 ### Phase 4: Ecosystem (12+ months)
-- Teacher resource sharing
-- Student portfolios
-- Cross-classroom collaboration
-- Custom educational game creation
-- Research opportunities
+- [ ] Teacher resource sharing
+- [ ] Student portfolios
+- [ ] Cross-classroom collaboration
+- [ ] Custom educational game creation
+- [ ] Research opportunities
 
 ---
 
-### Phase X: The Future of Education (Observable future)
+### Phase X: The Future of Education (observable and desirable future)
 
 - Teachers control their tools
 - Students own their data
@@ -237,8 +237,8 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 
 <img src="../../assets/edupunk-hand-logo.png" width="150px">
 
-**THIS ISN'T JUST SOFTWARE: THIS IS EDUCATION RECLAIMED**
-**THIS IS EDUPUNK OS**
+**THIS ISN'T JUST SOFTWARE. THIS IS EDUCATION RECLAIMED. THIS IS EDUPUNK OS**
 
 [github.com/khthondev/edupunk-os](https://github.com/khthondev/edupunk-os)
+
 *Fork it. Share it. Make it better. Learn to see*
