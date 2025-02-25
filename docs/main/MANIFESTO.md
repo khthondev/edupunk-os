@@ -98,21 +98,26 @@
 
 ### FREE HOSTING OPTIONS
 
-#### OLD HARDWARE REVIVAL
+#### OLD HARDWARE REVIVAL > RUN LOCALLY
+_(this is a placeholder for a future feature)_
+
 ```bash
 # Turn any old computer into an Edupunk server
 curl -fsSL https://edupunk-os.org/bootstrap | bash
 ```
 
 #### FREE CLOUD OPTIONS
+_(this list is not exhaustive — we're working on it)_
+
 - Deploy on Oracle Cloud Always Free tier
-- Run on GitHub/GitLab Pages for static components
-- Step-by-step guides at [ZERO-COST-DEPLOY.md](ZERO-COST-DEPLOY.md)
+- Run on GitHub Pages for static components
+- Step-by-step guides at **[ZERO COST DIY DEPLOYMENT](ZERO-COST-DEPLOY.md)**
 
 ---
 
 #### USB CLASSROOM-IN-A-STICK
-_(that's a feature for later — it needs some sdditional funding)_
+_(this feature needs some sdditional funding)_
+
 - Bootable USB with complete Edupunk OS
 - No installation required - just plug and teach
 - Works on library/lab computers
