@@ -196,7 +196,10 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 
 ---
 
+## PHASES OF THE EDUPUNK REBELLION
+
 ### Phase 1: MVP (1 month)
+
 - [ ] Basic LMS functionality
 - [ ] Assignment submission
 - [ ] Simple grading
@@ -204,6 +207,7 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 - [ ] Offline-first approach
 
 ### Phase 2: Community Growth (3-6 months)
+
 - [ ] Plugin architecture
 - [ ] Theme customization
 - [ ] Expanded documentation
@@ -211,6 +215,7 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 - [ ] Peer feedback tools
 
 ### Phase 3: Advanced Features (6-12 months)
+
 - [ ] Self-hosted AI assistance that respects privacy
 - [ ] Integration with open educational resources
 - [ ] Advanced analytics (for teachers only!)
@@ -218,6 +223,7 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 - [ ] Learning path customization
 
 ### Phase 4: Ecosystem (12+ months)
+
 - [ ] Teacher resource sharing
 - [ ] Student portfolios
 - [ ] Cross-classroom collaboration
@@ -226,12 +232,12 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 
 ---
 
-### Phase X: The Future of Education (observable and desirable future)
+### Phase X: The Future of Education (observable future)
 
-- Teachers control their tools
-- Students own their data
-- Communities shape the roadmap  
-- Education stays free and open
+- [ ] Teachers control their tools
+- [ ] Students own their data
+- [ ] Communities shape the roadmap  
+- [ ] Education stays free and open
 
 ---
 
@@ -239,6 +245,6 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 
 **THIS ISN'T JUST SOFTWARE. THIS IS EDUCATION RECLAIMED. THIS IS EDUPUNK OS**
 
-[github.com/khthondev/edupunk-os](https://github.com/khthondev/edupunk-os)
+**[github.com/khthondev/edupunk-os](https://github.com/khthondev/edupunk-os)**
 
-*Fork it. Share it. Make it better. Learn to see*
+> Fork it. Share it. Make it better. Learn to see
