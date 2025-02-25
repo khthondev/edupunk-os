@@ -62,9 +62,8 @@
 - **Bend it, shape it** — everything is customizable
 
 ### STUDENT PRIVACY  
-- **No tracking**, period.
-_It's like sniffing underwear — obnoxious_
-- **Your data, your servers** - not in corporate clouds
+- **No tracking**, period. _(it's like sniffing underwear — obnoxious)_
+- **Your data, your servers** - not in corpo clouds
 - **Self-hosted AI** that respects boundaries
 - **No surveillance** disguised as "engagement metrics"
 - **Learn without being watched** — radical concept, huh?
@@ -86,7 +85,7 @@ _It's like sniffing underwear — obnoxious_
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** No money? No problem! Edupunk LMS is designed to run on minimal hardware. Got an old laptop collecting dust? That's your new server. Let's stick it to the system by making education technology accessible to **EVERYONE**_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** No money? No problem! Edupunk LMS is designed to run on minimal hardware. Got an old laptop collecting dust? That's your new server. Let's stick it to the system by making education tech accessible to **EVERYONE**_
 
 ---
 
@@ -110,7 +109,10 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 - Run on GitHub/GitLab Pages for static components
 - Step-by-step guides at [ZERO-COST-DEPLOY.md](ZERO-COST-DEPLOY.md)
 
+---
+
 #### USB CLASSROOM-IN-A-STICK
+_(that's a feature for later — it needs some sdditional funding)_
 - Bootable USB with complete Edupunk OS
 - No installation required - just plug and teach
 - Works on library/lab computers
