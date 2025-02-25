@@ -55,21 +55,21 @@
 - **Simple tools** that just work
 - **Deploy in minutes**, not months
 - **Control your classroom**, not the other way around
-- **Bend it, shape it** - everything is customizable
+- **Bend it, shape it** — everything is customizable
 
 ### STUDENT PRIVACY  
 - **No tracking**, period.
 - **Your data, your servers** - not in corporate clouds
 - **Self-hosted AI** that respects boundaries
 - **No surveillance** disguised as "engagement metrics"
-- **Learn without being watched** - radical concept, huh?
+- **Learn without being watched** — radical concept, huh?
 
 ### COMMUNITY OWNERSHIP
-- **AGPLv3 licensed** - forever free, forever open
+- **AGPLv3 licensed** — forever free, forever open
 - **Users set the roadmap**, not investors
-- **Transparent decisions** - no backroom deals
-- **Documentation first** - accessibility is rebellion
-- **Purpose over profit** - solving real classroom problems
+- **Transparent decisions** — no backroom deals
+- **Documentation first** — accessibility is rebellion
+- **Purpose over profit** — solving real classroom problems
 
 ---
 
