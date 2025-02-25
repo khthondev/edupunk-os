@@ -85,7 +85,37 @@
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** No money? No problem! Edupunk LMS is designed to run on minimal hardware. Got an old laptop collecting dust? That's your new server. Let's stick it to the system by making education tech accessible to **EVERYONE**_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** Basically, my first step as founding design engineer is to create the Edupunk OS MVP_
+
+
+No money? No problem! Edupunk LMS is designed to run on minimal hardware. Got an old laptop collecting dust? That's your new server. Let's stick it to the system by making education tech accessible to **EVERYONE**
+
+<input type="checkbox" id="myCheckbox" checked> <label for="myCheckbox">This is my styled checkbox</label>
+
+<style>
+  #myCheckbox {
+    /* Your CSS styles here */
+    appearance: none; /* Remove default appearance */
+    width: 20px;
+    height: 20px;
+    border: 2px solid #ccc;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+
+  #myCheckbox:checked {
+    background-color: #007bff; /* Example: Blue background when checked */
+    border-color: #007bff;
+  }
+
+  #myCheckbox:checked::before { /* Example: Checkmark */
+    content: '\2713'; /* Unicode checkmark */
+    color: white;
+    display: block;
+    text-align: center;
+    line-height: 20px;
+  }
+</style>
 
 ---
 
