@@ -14,6 +14,8 @@
 
 ---
 
+## SCARY THINGS TO SCARE KIDS
+
 ### Bloatware That Kills Learning
 - You need multiple training sessions just to grade homework
 - Most features exist to impress admin demos, not help teachers
