@@ -241,7 +241,7 @@ curl -fsSL https://edupunk-os.lol/bootstrap | bash
 
 ---
 
-<img src="../../assets/doc-images/edupunk-os-hand-logo.png" width="150px">
+<img src="../../assets/doc-images/edupunk-os-hand-logo.gif" width="150px">
 
 **THIS ISN'T JUST SOFTWARE. THIS IS EDUCATION RECLAIMED. THIS IS EDUPUNK OS**
 
