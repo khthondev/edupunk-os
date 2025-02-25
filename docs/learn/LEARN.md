@@ -2,6 +2,6 @@
 
 ---
 
-> _[@khthondev](https://github.com/khthondev) — This file is under development, my friend. [Edupunk OS Manifesto](MANIFESTO.md) is the most comprehensive guide for the project, check it out!_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** This page is under developement. You can go back to **[EDUPUNK OS MANIFESTO](../main/MANIFESTO.md)**_
 
 ---

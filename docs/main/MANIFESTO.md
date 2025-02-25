@@ -10,7 +10,7 @@
 
 ---
 
-> _**[@khthondev:](https://github.com/khthondev)** I was blown away by this stuff when I was laying the foundation for Edupunk OS. I decided to keep exact numbers (I have the sources, but need additional research to pinpoint the exact issues) out of the Manifesto and invite awesome data folks to help the scene and join **[THE RESEARCH SQUAD](../research/RESEARCH.md)**_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** I was blown away by this stuff when I was laying the foundation for Edupunk OS. I decided to keep exact numbers (I have the sources, but need additional research to pinpoint the exact issues) out of the Manifesto and invite awesome data folks to help the scene and join **[RESEARCH SQUAD](../research/RESEARCH.md)**_
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-> _[@khthondev](https://github.com/khthondev) — That's just the foundation for the future of education, and all cool cats and kittens are welcome. Here's how you can contribute — [CONTRIBUTING.md](CONTRIBUTING.md)_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** That's just the foundation for the future of education, and all cool cats and kittens are welcome. Here's how you can contribute — **[CONTRIBUTING](CONTRIBUTING.md)**_
 
 ---
 
@@ -89,7 +89,7 @@ chmod +x education
 
 ---
 
-> _[@khthondev](https://github.com/khthondev) — No money? No problem! Our MVP is designed to run on minimal hardware. Got an old laptop collecting dust? That's your new server. Let's stick it to the system by making education technology accessible to EVERYONE._
+> _**[@KHTHONDEV:](https://github.com/khthondev)** No money? No problem! Edupunk LMS is designed to run on minimal hardware. Got an old laptop collecting dust? That's your new server. Let's stick it to the system by making education technology accessible to **EVERYONE**_
 
 ---
 
