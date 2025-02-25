@@ -102,7 +102,6 @@
 
 #### OLD HARDWARE REVIVAL > RUN LOCALLY
 _(this is a placeholder for a future feature, and the command won't work yet, but I left it here so I wouldn't forget)_
-
 ```bash
 # Turn any old computer into an Edupunk server
 curl -fsSL https://edupunk-os.org/bootstrap | bash
@@ -110,12 +109,12 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 
 #### FREE CLOUD OPTIONS
 _(this list is not exhaustive — working on it)_
-
 - Deploy on Oracle Cloud Always Free tier
 - Run on GitHub Pages for static components
 - Step-by-step guides at **[ZERO COST DIY DEPLOYMENT](../deploy/ZERO-COST-DEPLOY.md)**
 
 #### USB DIY CLASSROOM-IN-A-STICK
+_(oh, I really love this one)_
 - Bootable USB with complete Edupunk OS
 - **No installation required** — just plug and teach
 - Works on library/lab computers
