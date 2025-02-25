@@ -1,4 +1,4 @@
-<img src="../../assets/edupunk-os-contributing@2x.png" srcset="../../assets/edupunk-os-contributing@1x.png 1x, ../../assets/edupunk-os-contributing@2x.png 2x" alt="Edupunk Contributing Mosh Pit Cover">
+<img src="../../assets/doc-images/edupunk-os-contributing@2x.png" srcset="../../assets/doc-images/edupunk-os-contributing@1x.png 1x, ../../assets/doc-images/edupunk-os-contributing@2x.png 2x" alt="Edupunk Contributing Mosh Pit Cover">
 
 ---
 

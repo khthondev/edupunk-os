@@ -1,4 +1,4 @@
-<img src="../../assets/edupunk-os-research@2x.png" srcset="../../assets/edupunk-os-research@1x.png 1x, ../../assets/edupunk-os-research@2x.png 2x" alt="Edupunk Research Squad Cover">
+<img src="../../assets/doc-images/edupunk-os-research@2x.png" srcset="../../assets/doc-images/edupunk-os-research@1x.png 1x, ../../assets/doc-images/edupunk-os-research@2x.png 2x" alt="Edupunk Research Squad Cover">
 
 ---
 

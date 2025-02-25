@@ -1,4 +1,4 @@
-<img src="../../assets/edupunk-os-manifesto@2x.png" srcset="../../assets/edupunk-os-manifesto@1x.png 1x, ../../assets/edupunk-os-manifesto@2x.png 2x" alt="Edupunk Manifesto Cover">
+<img src="../../assets/doc-images/edupunk-os-manifesto@2x.png" srcset="../../assets/doc-images/edupunk-os-manifesto@1x.png 1x, ../../assets/doc-images/edupunk-os-manifesto@2x.png 2x" alt="Edupunk Manifesto Cover">
 
 ---
 
@@ -241,7 +241,7 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 
 ---
 
-<img src="../../assets/edupunk-hand-logo.png" width="150px">
+<img src="../../assets/doc-images/edupunk-hand-logo.png" width="150px">
 
 **THIS ISN'T JUST SOFTWARE. THIS IS EDUCATION RECLAIMED. THIS IS EDUPUNK OS**
 
