@@ -6,6 +6,16 @@
 
 ---
 
+# 2025
+
+## February
+
+### 2025-02-01
+
+- [x] _**[@KHTHONDEV:](https://github.com/khthondev)** set up the project repo initial structure, added mock pages and first version of the manifesto_
+
+---
+
 <img src="../../assets/doc-images/edupunk-os-hand-eye-logo.gif" width="200px">
 
 **THIS ISN'T JUST SOFTWARE. THIS IS EDUCATION RECLAIMED. THIS IS EDUPUNK OS**
