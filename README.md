@@ -23,4 +23,4 @@
 
 **[github.com/khthondev/edupunk-os](https://github.com/khthondev/edupunk-os)**
 
-> Fork it. Share it. Make it better. Learn to see
+> Fork it. Share it. Make it better. Guide to learn. Learn to see >>>
