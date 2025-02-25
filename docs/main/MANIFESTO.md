@@ -90,11 +90,11 @@
 ---
 
 ### MINIMUM VIABLE PRODUCT (MVP)
-- **One-Command Setup**: Deploy on any machine with a single command
-- **Essential Features Only**: Assignments, submissions, feedback, grades
-- **Ultra-Lightweight**: Runs on 10+ year old hardware
-- **Works Offline**: No internet required in the classroom
-- **Local-First**: Data stays on your hardware by default
+- **One-Command Setup:** Deploy on any machine with a single command
+- **Essential Features Only:** Assignments, submissions, feedback, grades
+- **Ultra-Lightweight:** Runs on 10+ year old hardware
+- **Works Offline:** No internet required in the classroom
+- **Local-First:** Data stays on your hardware by default
 
 ### FREE HOSTING OPTIONS
 
