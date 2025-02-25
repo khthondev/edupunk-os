@@ -11,6 +11,6 @@
 5. **[COMMUNITY](docs/main/COMMUNITY.md)** _— Page is under development_
 6. **[STORIES](docs/stories/STORIES.md)** _— Page is under development_
 7. **[ZERO-COST DEPLOYMENT](docs/deploy/ZERO-COST-DEPLOY.md)** _— Page is under development_
-<!-- 8. **[License](LICENSE.md)**
-9. **[Changelog](CHANGELOG.md)**
-10. **[Roadmap](ROADMAP.md)** -->
+8. **[LEGAL STUFF](docs/main/LEGAL.md)** _— Page is under development_
+9. **[ROADMAP](docs/main/ROADMAP.md)** _— Page is under development_
+10. **[CHANGELOG](docs/main/CHANGELOG.md)** _— Page is under development_
