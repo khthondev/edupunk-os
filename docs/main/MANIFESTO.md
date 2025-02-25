@@ -165,7 +165,7 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 
 - Grab classroom adoption toolkit at **[DIY ADOPTION TOOLKIT](../adopt/ADOPTION.md)**
 - Print flyers and stickers from **[REBEL OUTREACH](/assets/outreach)**
-- Study workshop materials for teacher training at **[WORKSHOPS](/docs/workshops)**
+- Study workshop materials for teacher training at **[WORKSHOPS](../workshops/WORKSHOPS.md)**
 - Use Social media hashtags **_#EdupunkOS #ReclaimEducation2025_**
 
 ### BUILD TOGETHER
