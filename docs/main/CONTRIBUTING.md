@@ -1,4 +1,4 @@
-<img src="../../assets/edupunk-os-contributing@2x.png" srcset="../../assets/edupunk-os-contributing@1x.png 1x, ../../assets/edupunk-os-contributing@2x.png 2x" alt="Edupunk Contributing Cover">
+<img src="../../assets/edupunk-os-contributing@2x.png" srcset="../../assets/edupunk-os-contributing@1x.png 1x, ../../assets/edupunk-os-contributing@2x.png 2x" alt="Edupunk Contributing Mosh Pit Cover">
 
 # How to Contribute  
 **Welcome, edupunk**
