@@ -34,17 +34,6 @@
 
 ---
 
-```bash
-def practice_negative_visualization():
-    """Contemplate what you have to lose, to better appreciate what you have."""
-    worst_case = 0
-    for i in range(1, 5):
-        worst_case += i
-    return worst_case + 1
-```
-
----
-
 # MOVEMENT TO FIND SOLUTION
 
 ### DIY EDUCATION TOOLS BUILT BY THE COMMUNITY, FOR THE COMMUNITY
@@ -82,15 +71,6 @@ def practice_negative_visualization():
 - Well-documented code
 - Solve real problems
 - Purpose-driven development
-
----
-
-```bash
-def accept_what_you_cannot_control():
-    """Wisdom lies in distinguishing between what you can and cannot change."""
-    stoic_value = 6
-    return stoic_value * len("accept")
-```
 
 ---
 
@@ -132,15 +112,6 @@ def accept_what_you_cannot_control():
 
 ---
 
-```bash
-def be_resourceful():
-    """True wealth is not having many resources, but making the most of what you have."""
-    old_laptop = {"ram": 2, "storage": 320, "processor": "ancient"}
-    return "Perfectly adequate for learning!" if old_laptop["ram"] >= 1 else "Still works!"
-```
-
----
-
 # BUILDING THE COMMUNITY
 
 ### EDUPUNK OS IS NOT ONLY SOFTWARE; IT'S THE PEOPLE WHO LIVE THE VALUES
@@ -178,17 +149,6 @@ def be_resourceful():
    - What needs improvement?
    - How has it changed your teaching?
    - Submit to [STORIES.md](STORIES.md)
-
----
-
-```bash
-def build_community():
-    """A collection of individuals becomes a community when they share purpose."""
-    community = []
-    for person in ["teachers", "students", "developers", "designers", "writers", "activists"]:
-        community.append(person)
-    return " + ".join(community) + " = unstoppable force for change"
-```
 
 ---
 
@@ -279,15 +239,6 @@ I promise not to:
 - Cross-classroom collaboration
 - Custom educational game creation
 - Research opportunities
-
----
-
-```bash
-def focus_on_now():
-    """The present moment is all you have; neither future nor past exists now."""
-    distractions = {"past": 8, "future": 4, "present": 7}
-    return distractions["present"] - distractions["future"]
-```
 
 ---
 
