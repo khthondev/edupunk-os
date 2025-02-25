@@ -10,7 +10,7 @@
 
 ---
 
-> _[@khthondev](https://github.com/khthondev) — I was blown away by this stuff when I was laying down the Edupunk OS foundation. But the numbers? They're always shifting, and finding the *right* research? Forget about it. So, all you rad data scientists out there, your skills are needed! Wanna help the scene and dig into some research? Check it [RESEARCH.md](RESEARCH.md)_
+> _[@khthondev](https://github.com/khthondev) — @khthondev — I was blown away by this stuff when I was laying the foundation for Edupunk OS. I decided to keep exact numbers (I have the sources, but need additional research to pinpoint the exact issues) out of the Manifesto and invite awesome data folks to help the scene and join **[THE RESEARCH SQUAD](../research/RESEARCH.md)**_
 
 ---
 
@@ -50,29 +50,38 @@
 
 ## CORE PRINCIPLES
 
-### Teacher Autonomy
-- Designed for real classrooms
-- Empower teachers
-- Simple, functional tools
-- Quick deployment
-- Control your classroom tools
-- Customizable
+<img src="assets/edupunk-fist.png" width="100px" alt="Raised fist holding chalk">
 
-### Student Privacy
-- No tracking by default
-- Data stays on your servers
-- Private, self-hosted AI
-- Privacy is essential
-- Fast, reliable access
-- No surveillance
+---
 
-### Community Ownership
-- AGPLv3 licensed (free and open source)
-- Community roadmap
-- Transparent decisions
-- Well-documented code
-- Solve real problems
-- Purpose-driven development
+### TEACHER AUTONOMY
+- **Design for reality**, not admin demos
+- **Simple tools** that just work
+- **Deploy in minutes**, not months
+- **Control your classroom**, not the other way around
+- **Bend it, shape it** - everything is customizable
+
+### STUDENT PRIVACY  
+- **No tracking**, period.
+- **Your data, your servers** - not in corporate clouds
+- **Self-hosted AI** that respects boundaries
+- **No surveillance** disguised as "engagement metrics"
+- **Learn without being watched** - radical concept, huh?
+
+### COMMUNITY OWNERSHIP
+- **AGPLv3 licensed** - forever free, forever open
+- **Users set the roadmap**, not investors
+- **Transparent decisions** - no backroom deals
+- **Documentation first** - accessibility is rebellion
+- **Purpose over profit** - solving real classroom problems
+
+---
+
+```bash
+# The system won't change itself
+chmod +x education
+./education --mode=rebellion
+```
 
 ---
 
