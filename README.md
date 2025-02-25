@@ -14,3 +14,13 @@
 8. **[LEGAL STUFF](docs/main/LEGAL.md)** _— Page is under development_
 9. **[ROADMAP](docs/main/ROADMAP.md)** _— Page is under development_
 10. **[CHANGELOG](docs/main/CHANGELOG.md)** _— Page is under development_
+
+---
+
+<img src="../../assets/doc-images/edupunk-os-hand-eye-logo.gif" width="200px">
+
+**THIS ISN'T JUST SOFTWARE. THIS IS EDUCATION RECLAIMED. THIS IS EDUPUNK OS**
+
+**[github.com/khthondev/edupunk-os](https://github.com/khthondev/edupunk-os)**
+
+> Fork it. Share it. Make it better. Learn to see
