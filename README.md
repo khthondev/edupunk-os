@@ -12,9 +12,9 @@
 2. **[Research](docs/research/RESEARCH.md)**
 3. **[Contributing](docs/main/CONTRIBUTING.md)**
 4. **[Learn](docs/learn/LEARN.md)**
-<!-- 5. **[Stories](STORIES.md)**
-6. **[Zero-Cost Deployment](ZERO-COST-DEPLOY.md)** -->
-7. **[Community](docs/main/COMMUNITY.md)**
-<!-- 8. **[License](LICENSE.md)**
+5. **[Community](docs/main/COMMUNITY.md)**
+<!-- 6. **[Stories](STORIES.md)**
+7. **[Zero-Cost Deployment](ZERO-COST-DEPLOY.md)**
+8. **[License](LICENSE.md)**
 9. **[Changelog](CHANGELOG.md)**
 10. **[Roadmap](ROADMAP.md)** -->
