@@ -161,12 +161,12 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 <!-- - Monthly hackathons focused on classroom needs _(future)_
 - Regional meetups to build local support networks _(future)_ -->
 
-### SPREAD THE WORD
+### SPREAD THE WORD, BREAK THE MOLD
 
 - Grab classroom adoption toolkit at **[DIY ADOPTION TOOLKIT](../adopt/ADOPTION.md)**
-- Print flyers and stickers from **[/assets/outreach](/assets/outreach)**
-- Workshop materials for teacher training at **[/docs/workshops](/docs/workshops)**
-- Social media templates and hashtags: #EdupunkOS #ReclaimEducation2025
+- Print flyers and stickers from **[REBEL OUTREACH](/assets/outreach)**
+- Study workshop materials for teacher training at **[WORKSHOPS](/docs/workshops)**
+- Use Social media hashtags **_#EdupunkOS #ReclaimEducation2025_**
 
 ### BUILD TOGETHER
 
@@ -197,7 +197,7 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 ---
 
 ### Phase 1: MVP (1 month)
-- Basic LMS functionality
+- [ ] Basic LMS functionality
 - Assignment submission
 - Simple grading
 - Mobile-responsive design
