@@ -99,7 +99,7 @@
 ### FREE HOSTING OPTIONS
 
 #### OLD HARDWARE REVIVAL > RUN LOCALLY
-_(this is a placeholder for a future feature and the command won't work yet, but I left it here so I wouldn't forget)_
+_(this is a placeholder for a future feature, and the command won't work yet, but I left it here so I wouldn't forget)_
 
 ```bash
 # Turn any old computer into an Edupunk server
