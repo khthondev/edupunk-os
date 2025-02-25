@@ -126,7 +126,7 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 
 #### USB DIY CLASSROOM-IN-A-STICK
 
-> _Oh, I really love this one! — ****[@KHTHONDEV](https://github.com/khthondev)**_
+> _Oh, I really love this one! — **[@KHTHONDEV](https://github.com/khthondev)**_
 
 - Bootable USB with complete Edupunk OS
 - **No installation required** — just plug and teach
