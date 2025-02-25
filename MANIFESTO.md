@@ -212,7 +212,7 @@ I promise not to:
 
 ---
 
-### Phase 1: MVP (Now!)
+### Phase 1: MVP (1 month)
 - Basic LMS functionality
 - Assignment submission
 - Simple grading
