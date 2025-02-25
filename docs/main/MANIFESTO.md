@@ -18,7 +18,7 @@
 
 ---
 
-## SCARY THINGS TO SCARE KIDS
+## SCARY THINGS SCARING KIDS
 
 ### BLOATWARE THAT KILLS LEARNING
 - You need multiple training sessions just to grade homework
@@ -48,7 +48,7 @@
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** That's just the foundation for the future of education, and all cool contributors are welcome to **[CONTRIBUTING MOSH PIT](CONTRIBUTING.md)**_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** That's just the foundation for the future of education, and all cool contributors are welcome to join the scene at **[CONTRIBUTING MOSH PIT](CONTRIBUTING.md)**_
 
 ---
 
