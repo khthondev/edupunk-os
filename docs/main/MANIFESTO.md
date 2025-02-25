@@ -156,17 +156,17 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 
 ### GET CONNECTED
 
-- Join our Discord/Matrix: [chat.edupunk-os.org](https://chat.edupunk-os.org)
-- Weekly community calls every Thursday
-- Monthly hackathons focused on classroom needs
-- Regional meetups to build local support networks
+- Join our Discord _(add link)_
+- Weekly community calls every ___ _(decide)_
+<!-- - Monthly hackathons focused on classroom needs _(future)_
+- Regional meetups to build local support networks _(future)_ -->
 
 ### SPREAD THE WORD
 
-- Classroom adoption toolkit: [ADOPTION.md](ADOPTION.md)
-- Printable flyers and stickers: [/assets/outreach](/assets/outreach)
-- Workshop materials for teacher training: [/docs/workshops](/docs/workshops)
-- Social media templates and hashtags: #EdupunkOS #ReclaimEducation
+- Grab classroom adoption toolkit at **[DIY ADOPTION TOOLKIT](../adopt/ADOPTION.md)**
+- Print flyers and stickers from **[/assets/outreach](/assets/outreach)**
+- Workshop materials for teacher training at **[/docs/workshops](/docs/workshops)**
+- Social media templates and hashtags: #EdupunkOS #ReclaimEducation2025
 
 ### BUILD TOGETHER
 
@@ -180,7 +180,7 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 - How are you using Edupunk OS?
 - What needs improvement?
 - How has it changed your teaching?
-- Submit to [STORIES.md](STORIES.md)
+- Submit to **[EDUPUNK STORIES](../stories/STORIES.md)**
 
 ---
 
