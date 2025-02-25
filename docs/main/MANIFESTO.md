@@ -10,7 +10,7 @@
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** I was blown away by this stuff when I was laying the foundation for Edupunk OS. I decided to keep exact numbers (I have the sources, but need additional research to pinpoint the exact issues) out of the Manifesto and invite awesome data folks to help the scene and join **[RESEARCH SQUAD](../research/RESEARCH.md)**_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** I was blown away by this stuff when I was laying the foundation for Edupunk OS. I decided to keep exact numbers out of the Manifesto and invite awesome data folks to help the scene and join **[RESEARCH SQUAD](../research/RESEARCH.md)** to pinpoint exact pains and prove the point_
 
 ---
 
