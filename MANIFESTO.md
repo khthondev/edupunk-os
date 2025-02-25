@@ -78,7 +78,7 @@
 
 ### GET YOUR OWN EDUPUNK LMS RUNNING IN MINUTES, NOT MONTHS
 
-<img src="https://media3.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="350" alt="DIY Workspace">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2J6Znc3NWd6amMzOHkwcGdmbG12bWR1ejJtOHhtczM3MGhxemswYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B1uajA01vvL91Urtsp/giphy.gif" width="350" alt="DIY Workspace">
 
 ---
 
