@@ -6,10 +6,10 @@
 
 ---
 
-<img src="../../assets/doc-images/edupunk-os-hand-logo.gif" width="150px">
+<img src="../../assets/doc-images/edupunk-os-hand-eye-logo.gif" width="200px">
 
 **THIS ISN'T JUST SOFTWARE. THIS IS EDUCATION RECLAIMED. THIS IS EDUPUNK OS**
 
 **[github.com/khthondev/edupunk-os](https://github.com/khthondev/edupunk-os)**
 
-> Fork it. Share it. Make it better. Learn to see
+> Fork it. Share it. Make it better. Guide to learn. Learn to see >>>
