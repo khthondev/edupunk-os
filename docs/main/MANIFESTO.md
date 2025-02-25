@@ -62,7 +62,8 @@
 - **Bend it, shape it** — everything is customizable
 
 ### STUDENT PRIVACY  
-- **No tracking**, period. _It's like sniffing underwear — obnoxious_
+- **No tracking**, period.
+_It's like sniffing underwear — obnoxious_
 - **Your data, your servers** - not in corporate clouds
 - **Self-hosted AI** that respects boundaries
 - **No surveillance** disguised as "engagement metrics"
