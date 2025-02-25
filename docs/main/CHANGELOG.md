@@ -12,8 +12,7 @@
 
 ### 2025-02-01
 
-- [x] _**[@KHTHONDEV](https://github.com/khthondev)** set up the project repo's initial structure, added mock pages, and the first version of the manifesto"
-_
+- [x] _**[@KHTHONDEV](https://github.com/khthondev)** set up the project repo's initial structure, added mock pages, and the first version of the manifesto_
 
 ---
 
