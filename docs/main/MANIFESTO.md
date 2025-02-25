@@ -85,41 +85,11 @@
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** Basically, my first step as founding design engineer is to create the Edupunk OS MVP_
-
-
-No money? No problem! Edupunk LMS is designed to run on minimal hardware. Got an old laptop collecting dust? That's your new server. Let's stick it to the system by making education tech accessible to **EVERYONE**
-
-<input type="checkbox" id="myCheckbox" checked> <label for="myCheckbox">This is my styled checkbox</label>
-
-<style>
-  #myCheckbox {
-    /* Your CSS styles here */
-    appearance: none; /* Remove default appearance */
-    width: 20px;
-    height: 20px;
-    border: 2px solid #ccc;
-    border-radius: 3px;
-    cursor: pointer;
-  }
-
-  #myCheckbox:checked {
-    background-color: #007bff; /* Example: Blue background when checked */
-    border-color: #007bff;
-  }
-
-  #myCheckbox:checked::before { /* Example: Checkmark */
-    content: '\2713'; /* Unicode checkmark */
-    color: white;
-    display: block;
-    text-align: center;
-    line-height: 20px;
-  }
-</style>
+> _**[@KHTHONDEV:](https://github.com/khthondev)** My first step as the founding design engineer is to create the Edupunk OS MVP. This involves designing and coding the core feature set. I'll need some time to assess where I'll require assistance from the scene_
 
 ---
 
-### MINIMUM VIABLE PRODUCT (MVP)
+### MINIMUM VIABLE PRODUCT (MVP) REQUIREMENTS
 - **One-Command Setup:** Deploy on any machine with a single command
 - **Essential Features Only:** Assignments, submissions, feedback, grades
 - **Ultra-Lightweight:** Runs on 10+ year old hardware
@@ -137,17 +107,17 @@ curl -fsSL https://edupunk-os.org/bootstrap | bash
 ```
 
 #### FREE CLOUD OPTIONS
-_(this list is not exhaustive — we're working on it)_
+_(this list is not exhaustive — working on it)_
 
 - Deploy on Oracle Cloud Always Free tier
 - Run on GitHub Pages for static components
-- Step-by-step guides at **[ZERO COST DIY DEPLOYMENT](ZERO-COST-DEPLOY.md)**
+- Step-by-step guides at **[ZERO COST DIY DEPLOYMENT](../deploy/ZERO-COST-DEPLOY.md)**
 
 #### USB DIY CLASSROOM-IN-A-STICK
 - Bootable USB with complete Edupunk OS
 - **No installation required** — just plug and teach
 - Works on library/lab computers
-- Stores sensitive data **securily** with the magic help of cryptography
+- Stores sensitive data **securely** with the magic of cryptography
 
 ---
 
