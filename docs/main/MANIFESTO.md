@@ -118,7 +118,7 @@ _(oh, I really love this one)_
 - Bootable USB with complete Edupunk OS
 - **No installation required** — just plug and teach
 - Works on library/lab computers
-- Stores sensitive data **securely** with the magic of cryptography
+- Stores sensitive data **securely** with the magic help of cryptography
 
 ---
 
