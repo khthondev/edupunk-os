@@ -46,9 +46,9 @@
 
 ---
 
-#### Core Principles
+### CORE PRINCIPLES
 
-1. **Teacher Autonomy**
+#### Teacher Autonomy
 - Designed for real classrooms
 - Empower teachers
 - Simple, functional tools
