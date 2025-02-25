@@ -1,4 +1,4 @@
-<img src="assets/edupunk-os-manifesto@2x.png" srcset="assets/edupunk-os-manifesto@1x.png 1x, assets/edupunk-os-manifesto@2x.png 2x" alt="Edupunk Manifesto Cover">
+<img src="../../assets/edupunk-os-manifesto@2x.png" srcset="../../assets/edupunk-os-manifesto@1x.png 1x, ../../assets/edupunk-os-manifesto@2x.png 2x" alt="Edupunk Manifesto Cover">
 
 ---
 
@@ -265,7 +265,7 @@ Education stays free and open.
 
 ---
 
-<img src="assets/edupunk-hand-logo.png" width="150px">
+<img src="../../assets/edupunk-hand-logo.png" width="150px">
 
 *Fork it. Share it. Make it better. Learn together.*  
 [github.com/khthondev/edupunk-os](https://github.com/khthondev/edupunk-os)
