@@ -186,7 +186,7 @@ curl -fsSL https://edupunk-os.lol/bootstrap | bash
 
 # ROADMAP
 
-### FROM MVP TO EDUCATION REVOLUTION
+### FROM MVP TO EDUCATION EVOLUTION
 
 <img src="https://media1.giphy.com/media/xsF1FSDbjguis/giphy.gif" width="350" alt="Future">
 
