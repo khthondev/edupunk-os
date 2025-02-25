@@ -2,6 +2,6 @@
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** This page is under developement. You can go back to **[EDUPUNK OS MANIFESTO](../main/MANIFESTO.md)**_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** This page is under developement. You can go and check **[EDUPUNK OS MANIFESTO](../main/MANIFESTO.md)**_
 
 ---

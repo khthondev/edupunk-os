@@ -67,8 +67,8 @@
 
 ### STUDENT PRIVACY
 
-- **No tracking**, period. _(it's like sniffing underwear — obnoxious)_
-- **Your data, your servers** - not in corpo clouds
+- **No tracking**, period. _(It's as obnoxious as sniffing underwear)_
+- **Your data, your servers** — not in corpo clouds
 - **Self-hosted AI** that respects boundaries
 - **No surveillance** disguised as "engagement metrics"
 - **Learn without being watched** — radical concept, huh?
