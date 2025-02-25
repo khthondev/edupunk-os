@@ -113,14 +113,11 @@ _(this list is not exhaustive — we're working on it)_
 - Run on GitHub Pages for static components
 - Step-by-step guides at **[ZERO COST DIY DEPLOYMENT](ZERO-COST-DEPLOY.md)**
 
----
-
-#### USB CLASSROOM-IN-A-STICK
-_(this feature needs some sdditional funding)_
-
+#### USB DIY CLASSROOM-IN-A-STICK
 - Bootable USB with complete Edupunk OS
-- No installation required - just plug and teach
+- **No installation required** — just plug and teach
 - Works on library/lab computers
+- Stores sensitive data **securily** with the magic help of cryptography
 
 ---
 
