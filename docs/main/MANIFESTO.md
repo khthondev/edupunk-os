@@ -2,7 +2,7 @@
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** Kudos to Tom Kuntz for **[EDUPUNK](https://en.wikipedia.org/wiki/Edupunk)** term (being myself an edupunk for years helped me understand the world around me better) and inspiration for the **EDUPUNK OS MOVEMENT.** Tom described edupunk as 'an approach to teaching that avoids mainstream tools like PowerPoint and Blackboard, and instead aims to bring the rebellious attitude and DIY ethos of ’70s bands like The Clash to the classroom'_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** Kudos to Tom Kuntz for the **[EDUPUNK](https://en.wikipedia.org/wiki/Edupunk)** term (being an edupunk myself for years helped me understand the world around me better) and inspiration for the **EDUPUNK OS MOVEMENT.** Tom described edupunk as "an approach to teaching that avoids mainstream tools like PowerPoint and Blackboard, and instead aims to bring the rebellious attitude and DIY ethos of ’70s bands like The Clash to the classroom"_
 
 ---
 
