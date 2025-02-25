@@ -94,9 +94,107 @@ def accept_what_you_cannot_control():
 
 ---
 
+# ZERO-COST DEPLOYMENT NOW!
+
+### GET YOUR OWN EDUPUNK LMS RUNNING IN MINUTES, NOT MONTHS
+
+<img src="https://media3.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="350" alt="DIY Workspace">
+
+---
+
+> _[@khthondev](https://github.com/khthondev) — No money? No problem! Our MVP is designed to run on minimal hardware. Got an old laptop collecting dust? That's your new server. Let's stick it to the system by making education technology accessible to EVERYONE._
+
+---
+
+### Minimum Viable Product (MVP)
+- **One-Command Setup**: Deploy on any machine with a single command
+- **Essential Features Only**: Assignments, submissions, feedback, grades
+- **Ultra-Lightweight**: Runs on 10+ year old hardware
+- **Works Offline**: No internet required in the classroom
+- **Local-First**: Data stays on your hardware by default
+
+### Free Hosting Options
+1. **Old Hardware Revival**
+   ```bash
+   # Turn any old computer into an Edupunk server
+   curl -fsSL https://edupunk-os.org/bootstrap | bash
+   ```
+
+2. **Free Cloud Options**
+   - Deploy on Oracle Cloud Always Free tier
+   - Run on GitHub/GitLab Pages for static components
+   - Step-by-step guides at [ZERO-COST-DEPLOY.md](ZERO-COST-DEPLOY.md)
+
+3. **USB Classroom-in-a-Stick**
+   - Bootable USB with complete Edupunk OS
+   - No installation required - just plug and teach
+   - Works on library/lab computers
+
+---
+
+```bash
+def be_resourceful():
+    """True wealth is not having many resources, but making the most of what you have."""
+    old_laptop = {"ram": 2, "storage": 320, "processor": "ancient"}
+    return "Perfectly adequate for learning!" if old_laptop["ram"] >= 1 else "Still works!"
+```
+
+---
+
+# BUILDING THE COMMUNITY
+
+### EDUPUNK OS IS NOT ONLY SOFTWARE; IT'S THE PEOPLE WHO LIVE THE VALUES
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNqcDQza2xrYzUxYnZ0bnlxYTQ1cm5waW5jMXRiZm1uMm56anQ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHs1lBhZWaK5rj7lt3/giphy.gif" width="350" alt="Come On">
+
+---
+
+> _[@khthondev](https://github.com/khthondev) — The software's just a tool. It's the teachers, students, hackers, and dreamers that make this a movement. Share your classroom stories, your hacks, your frustrations. We learn together or not at all._
+
+---
+
+### Join The Movement
+
+1. **Get Connected**
+   - Join our Discord/Matrix: [chat.edupunk-os.org](https://chat.edupunk-os.org)
+   - Weekly community calls every Thursday
+   - Monthly hackathons focused on classroom needs
+   - Regional meetups to build local support networks
+
+2. **Spread The Word**
+   - Classroom adoption toolkit: [ADOPTION.md](ADOPTION.md)
+   - Printable flyers and stickers: [/assets/outreach](/assets/outreach)
+   - Workshop materials for teacher training: [/docs/workshops](/docs/workshops)
+   - Social media templates and hashtags: #EdupunkOS #ReclaimEducation
+
+3. **Build Together**
+   - Teacher-developer pairing program
+   - Documentation sprints (no coding required!)
+   - Translation projects for global accessibility
+   - Bug hunting bounties (find issues, earn swag)
+
+4. **Share Your Classroom Story**
+   - How are you using Edupunk OS?
+   - What needs improvement?
+   - How has it changed your teaching?
+   - Submit to [STORIES.md](STORIES.md)
+
+---
+
+```bash
+def build_community():
+    """A collection of individuals becomes a community when they share purpose."""
+    community = []
+    for person in ["teachers", "students", "developers", "designers", "writers", "activists"]:
+        community.append(person)
+    return " + ".join(community) + " = unstoppable force for change"
+```
+
+---
+
 # HOW TO JOIN
 
-### EDUPUNK OS IS NOT ONLY SOFTWARE; IT'S THE PEOPLE WHO CARE. AND WE NEED YOUR HELP
+### EDUPUNK OS NEEDS YOUR HELP
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNqcDQza2xrYzUxYnZ0bnlxYTQ1cm5waW5jMXRiZm1uMm56anQ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHs1lBhZWaK5rj7lt3/giphy.gif" width="350" alt="Come On">
 
@@ -134,19 +232,53 @@ I promise not to:
 [your_edupunk_name]
 ```
 
-5. **Spread the Word**
+5. **Start Small, Dream Big**
 
-    Even if you think you have no skills, you can still contribute!
+   Even if you think you have no skills, you can still contribute!
 
-    Check out [LEARN.md](LEARN.md) for some great learning paths with actionable steps to implement a learning routine, even for busy people.
+   Check out [LEARN.md](LEARN.md) for some great learning paths with actionable steps to implement a learning routine, even for busy people.
 
 ---
 
-# THE FUTURE
+# ROADMAP
 
-### HELP US CREATE IT
+### FROM MVP TO EDUCATION REVOLUTION
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI5cjlueTNzNmE3NTI0dWJrMXczNDZrbzVnNDAzNnkxcWc2Z2R2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsF1FSDbjguis/giphy.gif" width="350" alt="Future">
+<img src="https://media1.giphy.com/media/xsF1FSDbjguis/giphy.gif" width="350" alt="Future">
+
+---
+
+> _[@khthondev](https://github.com/khthondev) — Rome wasn't built in a day, and neither will Edupunk OS. But we're not building an empire — we're building tools of liberation. Each version gets us closer to education that serves teachers and students, not shareholders._
+
+---
+
+### Phase 1: MVP (Now!)
+- Basic LMS functionality
+- Assignment submission
+- Simple grading
+- Mobile-responsive design
+- Offline-first approach
+
+### Phase 2: Community Growth (3-6 months)
+- Plugin architecture
+- Theme customization
+- Expanded documentation
+- Localization for 10+ languages
+- Peer feedback tools
+
+### Phase 3: Advanced Features (6-12 months)
+- Self-hosted AI assistance that respects privacy
+- Integration with open educational resources
+- Advanced analytics (for teachers only!)
+- Improved accessibility features
+- Learning path customization
+
+### Phase 4: Ecosystem (12+ months)
+- Teacher resource sharing
+- Student portfolios
+- Cross-classroom collaboration
+- Custom educational game creation
+- Research opportunities
 
 ---
 
@@ -156,6 +288,14 @@ def focus_on_now():
     distractions = {"past": 8, "future": 4, "present": 7}
     return distractions["present"] - distractions["future"]
 ```
+
+---
+
+# THE FUTURE
+
+### HELP US CREATE IT
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI5cjlueTNzNmE3NTI0dWJrMXczNDZrbzVnNDAzNnkxcWc2Z2R2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsF1FSDbjguis/giphy.gif" width="350" alt="Future">
 
 ---
 
@@ -170,11 +310,11 @@ Education stays free and open.
 
 **THIS IS EDUCATION RECLAIMED**
 
-**THIS EDUPUNK OS**
+**THIS IS EDUPUNK OS**
 
 ---
 
 <img src="assets/edupunk-hand-logo.png" width="150px">
 
-*Fork it. Share it. Make it better. Learn to see*  
+*Fork it. Share it. Make it better. Learn together.*  
 [github.com/khthondev/edupunk-os](https://github.com/khthondev/edupunk-os)
