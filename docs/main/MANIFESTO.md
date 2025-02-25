@@ -215,7 +215,7 @@ I promise not to:
 
 ---
 
-> _[@khthondev](https://github.com/khthondev) — Rome wasn't built in a day, and neither will Edupunk OS. But we're not building an empire — we're building tools of liberation. Each version gets us closer to education that serves teachers and students, not shareholders._
+> _**[@KHTHONDEV:](https://github.com/khthondev)** — Rome wasn't built in a day, and neither will Edupunk OS. But we're not building an empire — we're building tools for the future. Each version gets us closer to education that serves teachers and students, not shareholders_
 
 ---
 
@@ -249,30 +249,19 @@ I promise not to:
 
 ---
 
-# THE FUTURE
+### Phase X: The Future of Education (Observable future)
 
-### HELP US CREATE IT
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI5cjlueTNzNmE3NTI0dWJrMXczNDZrbzVnNDAzNnkxcWc2Z2R2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsF1FSDbjguis/giphy.gif" width="350" alt="Future">
-
----
-
-Teachers control their tools.  
-Students own their data.  
-Communities shape the roadmap.  
-Education stays free and open.
-
----
-
-**THIS ISN'T JUST SOFTWARE**
-
-**THIS IS EDUCATION RECLAIMED**
-
-**THIS IS EDUPUNK OS**
+- Teachers control their tools
+- Students own their data
+- Communities shape the roadmap  
+- Education stays free and open
 
 ---
 
 <img src="../../assets/edupunk-hand-logo.png" width="150px">
 
-*Fork it. Share it. Make it better. Learn together.*  
+**THIS ISN'T JUST SOFTWARE: THIS IS EDUCATION RECLAIMED**
+**THIS IS EDUPUNK OS**
+
 [github.com/khthondev/edupunk-os](https://github.com/khthondev/edupunk-os)
+*Fork it. Share it. Make it better. Learn to see*
