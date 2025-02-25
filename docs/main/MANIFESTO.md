@@ -112,7 +112,7 @@
 > _This is a placeholder for a future feature, and the command won't work yet, but I left it here so I wouldn't forget_
 
 ```bash
-# Turn any old computer into an Edupunk server
+# Turn any old computer into an Edupunk OS server
 curl -fsSL https://edupunk-os.org/bootstrap | bash
 ```
 
