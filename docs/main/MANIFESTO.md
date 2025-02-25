@@ -14,7 +14,7 @@
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** I was blown away by the things I discovered while laying the foundation for this project. I think humanity can do much better if we really want to reach for the stars. I decided to keep exact numbers out of the Manifesto and just invite awesome data folks to join **[RESEARCH SQUAD](../research/RESEARCH.md)** and help me pinpoint exact problems causing this shit and build tools really needed by the community_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** I was blown away by the things I discovered while laying the foundation for this project. I think humanity can do much better if we really want to reach for the stars. I decided to keep the numbers out of the Manifesto and just invite awesome data folks to join **[RESEARCH SQUAD](../research/RESEARCH.md)** and help me pinpoint exact problems causing this shit and build tools really needed by the community_
 
 ---
 
