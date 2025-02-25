@@ -1,4 +1,4 @@
-# CHANGELOG
+<img src="../../assets/doc-images/edupunk-os-changelog@2x.png" srcset="../../assets/doc-images/edupunk-os-changelog@1x.png 1x, ../../assets/doc-images/edupunk-os-changelog@2x.png 2x" alt="Edupunk Changelog Cover">
 
 ---
 
