@@ -46,9 +46,9 @@
 
 ---
 
-### CORE PRINCIPLES
+## CORE PRINCIPLES
 
-#### Teacher Autonomy
+### Teacher Autonomy
 - Designed for real classrooms
 - Empower teachers
 - Simple, functional tools
@@ -56,7 +56,7 @@
 - Control your classroom tools
 - Customizable
 
-2. **Student Privacy**
+### Student Privacy
 - No tracking by default
 - Data stays on your servers
 - Private, self-hosted AI
@@ -64,7 +64,7 @@
 - Fast, reliable access
 - No surveillance
 
-3. **Community Ownership**
+### Community Ownership
 - AGPLv3 licensed (free and open source)
 - Community roadmap
 - Transparent decisions
