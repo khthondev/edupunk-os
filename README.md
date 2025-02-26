@@ -19,7 +19,7 @@ _*Pages 2–10 are under development:_
 
 <img src="assets/doc-images/foss-lms.gif" width="350px">
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** Hope, my cooking is good enough to wait for the final product_
+> _**[@KHTHONDEV:](https://github.com/khthondev)** I hope my cooking turns out well enough for the final product_
 
 ---
 
