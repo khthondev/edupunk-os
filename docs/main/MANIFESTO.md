@@ -105,28 +105,17 @@
 - **Works Offline:** No internet required in the classroom
 - **Local-First:** Data stays on your hardware by default
 
-### FREE HOSTING OPTIONS
+### CORE TECH STACK
 
-#### OLD HARDWARE REVIVAL > RUN LOCALLY
+- **Language — Go (Golang):** Compiles to static binaries; minimal runtime; built-in concurrency for lightweight services
+- **Database — SQLite:** Lightweight, serverless, and self-contained; no external dependencies
+- **UI — HTMX + Go Templates:** Zero JavaScript bloat; server-rendered HTML; works offline
+- **Auth — SQLCipher:** Encrypted local auth database; no third-party dependencies
+- **Deployment — Static Binaries:** Single binary for all platforms; runs on 512MB RAM
 
-> _This is a placeholder for a future feature, and the command won't work yet, but I left it here so I wouldn't forget_
+### USB DIY CLASSROOM-IN-A-STICK
 
-```bash
-# Turn any old computer into an Edupunk OS server
-curl -fsSL https://edupunk-os.lol/bootstrap | bash
-```
-
-#### FREE CLOUD OPTIONS
-
-> _This list is not exhaustive — working on it_
-
-- Deploy on Oracle Cloud Always Free tier
-- Run on GitHub Pages for static components
-- Step-by-step guides at **[ZERO COST DIY DEPLOYMENT](../deploy/ZERO-COST-DEPLOY.md)**
-
-#### USB DIY CLASSROOM-IN-A-STICK
-
-> _Oh, I really love this one! — **[@KHTHONDEV](https://github.com/khthondev)**_
+> _Oh, I really love this idea! — **[@KHTHONDEV](https://github.com/khthondev)**_
 
 - Bootable USB with complete Edupunk OS
 - **No installation required** — just plug and teach
