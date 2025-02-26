@@ -17,7 +17,7 @@
 
 _*Pages 2–10 are under development:_
 
-<img src="assets/doc-images/foss-lms.gif" width="350px">
+<img src="assets/doc-images/five-minutes-turkish.gif" width="350px">
 
 > _**[@KHTHONDEV:](https://github.com/khthondev)** I hope my cooking turns out well enough for the final product_
 
