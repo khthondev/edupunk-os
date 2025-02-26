@@ -17,6 +17,12 @@
 
 ---
 
+_*Pages 2–10:_
+
+<img src="assets/doc-images/foss-lms.gif" width="350px">
+
+---
+
 <img src="assets/doc-images/edupunk-os-hand-eye-logo.gif" width="200px">
 
 **THIS ISN'T JUST SOFTWARE. THIS IS EDUCATION RECLAIMED. THIS IS EDUPUNK OS**
