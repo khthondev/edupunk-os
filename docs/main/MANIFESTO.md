@@ -61,7 +61,7 @@
 
 - **Design for reality**, not admin demos
 - **Simple tools** that just work
-- **Deploy in minutes**, not months
+- **Deploy in minutes**, not weeks
 - **Control your classroom**, not the other way around
 - **Bend it, shape it** — everything is customizable
 
@@ -85,7 +85,7 @@
 
 # ZERO-COST DEPLOYMENT
 
-### GET YOUR OWN EDUPUNK LMS RUNNING IN MINUTES, NOT MONTHS
+### GET YOUR OWN EDUPUNK LMS RUNNING IN MINUTES
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2J6Znc3NWd6amMzOHkwcGdmbG12bWR1ejJtOHhtczM3MGhxemswYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B1uajA01vvL91Urtsp/giphy.gif" width="350" alt="Just A Regular Teacher at Work">
 
