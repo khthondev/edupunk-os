@@ -5,19 +5,19 @@
 # PROJECT NAVIGATION
 
 1. **[MANIFESTO](docs/main/MANIFESTO.md)** _— Read about the foundation behind Edupunk OS and why **[@KHTHONDEV](https://github.com/khthondev)** is building it_
-2. **[RESEARCH SQUAD](docs/research/RESEARCH.md)** _— Page is under development_
-3. **[CONTRIBUTING MOSH PIT](docs/main/CONTRIBUTING.md)** _— Page is under development_
-4. **[LEARN](docs/learn/LEARN.md)** _— Page is under development_
-5. **[COMMUNITY](docs/main/COMMUNITY.md)** _— Page is under development_
-6. **[STORIES](docs/stories/STORIES.md)** _— Page is under development_
-7. **[ZERO-COST DEPLOYMENT](docs/deploy/ZERO-COST-DEPLOY.md)** _— Page is under development_
-8. **[LEGAL STUFF](docs/main/LEGAL.md)** _— Page is under development_
-9. **[ROADMAP](docs/main/ROADMAP.md)** _— Page is under development_
-10. **[CHANGELOG](docs/main/CHANGELOG.md)** _— Page is under development_
+2. **[RESEARCH SQUAD](docs/research/RESEARCH.md)***
+3. **[CONTRIBUTING MOSH PIT](docs/main/CONTRIBUTING.md)***
+4. **[LEARN](docs/learn/LEARN.md)***
+5. **[COMMUNITY](docs/main/COMMUNITY.md)**
+6. **[STORIES](docs/stories/STORIES.md)**
+7. **[ZERO-COST DEPLOYMENT](docs/deploy/ZERO-COST-DEPLOY.md)**
+8. **[LEGAL STUFF](docs/main/LEGAL.md)**
+9. **[ROADMAP](docs/main/ROADMAP.md)**
+10. **[CHANGELOG](docs/main/CHANGELOG.md)**
 
 ---
 
-_*Pages 2–10:_
+_*Pages 2–10 are under development_
 
 <img src="assets/doc-images/foss-lms.gif" width="350px">
 
