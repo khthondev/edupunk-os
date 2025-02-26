@@ -15,8 +15,6 @@
 9. **[ROADMAP](docs/main/ROADMAP.md)***
 10. **[CHANGELOG](docs/main/CHANGELOG.md)***
 
----
-
 _*Pages 2–10 are under development:_
 
 <img src="assets/doc-images/foss-lms.gif" width="350px">
