@@ -91,10 +91,6 @@
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** My first step as the founding design engineer is to create the Edupunk OS MVP. This involves designing and coding the core feature set. I'll need some time to assess where I'll require assistance from the scene_
-
----
-
 ## MINIMUM VIABLE PRODUCT
 
 ### MVP REQUIREMENTS
@@ -132,11 +128,11 @@
 
 ---
 
-> _**[@KHTHONDEV:](https://github.com/khthondev)** Software's is merely a tool. It's the teachers, students, hackers, and dreamers that make **EDUPUNK** a movement. Share your classroom stories, your hacks, your frustrations. We learn together or not at all_
-
----
-
 ## JOIN THE MOVEMENT
+
+Software's is merely a tool. It's the teachers, students, hackers, and dreamers that make **EDUPUNK** a movement. Share your classroom stories, your hacks, your frustrations.
+
+We learn together or not at all!
 
 ### CONTRIBUTE
 
