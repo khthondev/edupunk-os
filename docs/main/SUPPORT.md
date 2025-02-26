@@ -1,7 +1,8 @@
 # SUPPORT PROJECT
 
-- Buy merch
-- Donate crypto
+- Buy merch — _I've designed some awesome shirts and stickers, but I need time how to decide on printing and shipping_
+- Donate to charity — _I'm not sure what charity I should donate to, but I'd like to support a cause that helps education_
+- Donate crypto _(add wallet address)_
 
 ---
 
