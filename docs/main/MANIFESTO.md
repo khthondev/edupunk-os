@@ -201,7 +201,7 @@ WE LEARN TOGETHER OR NOT AT ALL
 
 ### Phase 3: Advanced Features (6-12 months)
 
-- [ ] Self-hosted AI assistance that respects privacy
+<!-- - [ ] Self-hosted AI assistance that respects privacy -->
 - [ ] Integration with open educational resources
 - [ ] Advanced analytics (for teachers only!)
 - [ ] Improved accessibility features
