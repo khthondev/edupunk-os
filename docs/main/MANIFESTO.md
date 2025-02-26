@@ -132,7 +132,7 @@
 
 Software's is merely a tool. It's the teachers, students, hackers, and dreamers that make **EDUPUNK** a movement. Share your classroom stories, your hacks, your frustrations.
 
-We learn together or not at all!
+WE LEARN TOGETHER OR NOT AT ALL
 
 ### CONTRIBUTE
 
