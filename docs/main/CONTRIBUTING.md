@@ -87,6 +87,8 @@
 
 <img src="../../assets/doc-gifs/electric-enlightment.gif" width="350" alt="Electic Enlightment">
 
+---
+
 ### FOR DESIGNERS
 
 - Begin with user flows that respect offline scenarios
