@@ -10,6 +10,10 @@
 
 ### CORE VALUES FOR TECH CONTRIBUTORS
 
+<img src="../../assets/doc-gifs/old-school-mosh.gif" width="350" alt="Old School Mosh"> 
+
+---
+
 #### 1. PRIVACY AS DEFAULT
 
 - Start every design with privacy as the foundation, not an afterthought
