@@ -11,6 +11,7 @@ This directory contains the Edupunk OS implementation.
 ```bash
 cd src
 ./scripts/setup.sh
+```
 
 ---
 
