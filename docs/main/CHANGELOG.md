@@ -6,9 +6,13 @@
 
 ## February
 
-### 2025-02-01
+### 2025-02-25
 
 - [x] _**[@KHTHONDEV](https://github.com/khthondev)** set up the project repo's initial structure, added mock pages, and the first version of the manifesto_
+
+### 2025-02-27
+
+- [x] _**[@KHTHONDEV](https://github.com/khthondev)** added labels to the repo to create product backlog later_
 
 ---
 
@@ -18,4 +22,4 @@
 
 **[github.com/khthondev/edupunk-os](https://github.com/khthondev/edupunk-os)**
 
-> Fork it. Share it. Make it better. Guide to learn. Learn to see >>>
+> fork it / share it / make it better / guide to learn / learn to see >>>
