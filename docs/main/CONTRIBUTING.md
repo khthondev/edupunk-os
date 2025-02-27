@@ -74,7 +74,7 @@
 - Design to reduce stress, not increase it
 - Consider the psychological impact of interfaces on students
 
-### 10. Sustainable Development
+### 10. SUSTAINABLE DEVELOPMENT
 
 - Build features that remain maintainable long-term
 - Document architectural decisions for future contributors
