@@ -2,6 +2,16 @@
 
 This is the source code of the Edupunk OS.
 
+# Edupunk OS Source Code
+
+This directory contains the Edupunk OS implementation.
+
+## Quick Start
+
+```bash
+cd src
+./scripts/setup.sh
+
 ---
 
 > _**[@KHTHONDEV:](https://github.com/khthondev)** This page is under developement. You can go and check **[EDUPUNK OS MANIFESTO](../docs/main/MANIFESTO.md)**_
