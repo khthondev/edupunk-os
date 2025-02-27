@@ -10,7 +10,7 @@
 
 ### CORE VALUES FOR TECH CONTRIBUTORS
 
-<img src="../../assets/doc-gifs/old-school-mosh.gif" width="350" alt="Old School Mosh"> 
+<img src="../../assets/doc-gifs/old-school-mosh.gif" width="350" alt="Old School Mosh">
 
 ---
 
@@ -128,6 +128,10 @@
 ---
 
 ## CODE REVIEW CHECKLIST
+
+<img src="../../assets/doc-gifs/old-school-mosh.gif" width="350" alt="Checklist">
+
+---
 
 When reviewing contributions, ensure they:
 
