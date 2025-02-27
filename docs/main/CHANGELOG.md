@@ -14,6 +14,7 @@
 
 - [x] **[@KHTHONDEV](https://github.com/khthondev)** added issue labels to the repo for froduct feature backlog
 - [x] **[@KHTHONDEV](https://github.com/khthondev)** added EDUPUNK OS CONTRIBUTION GUIDELINES to **[CONTRIBUTING.md](CONTRIBUTING.md)**
+- [x] **[@KHTHONDEV](https://github.com/khthondev)** added ROADMAP to **[ROADMAP.md](ROADMAP.md)**
 
 ---
 
