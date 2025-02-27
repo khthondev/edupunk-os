@@ -2,11 +2,11 @@
 
 This is the source code of the Edupunk OS.
 
-# Edupunk OS Source Code
+## EDUPUNK OS SOURCE CODE
 
 This directory contains the Edupunk OS implementation.
 
-## Quick Start
+## QUICK START
 
 ```bash
 cd src
