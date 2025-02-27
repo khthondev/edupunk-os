@@ -29,4 +29,4 @@ _*Pages 2–10 are under development:_
 
 **[github.com/khthondev/edupunk-os](https://github.com/khthondev/edupunk-os)**
 
-> Fork it. Share it. Make it better. Guide to learn. Learn to see >>>
+> fork it / share it / make it better / guide to learn / learn to see >>>
