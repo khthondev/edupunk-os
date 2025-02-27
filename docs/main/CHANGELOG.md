@@ -12,7 +12,7 @@
 
 ### 2025-02-27
 
-- [x] _**[@KHTHONDEV](https://github.com/khthondev)** added labels to the repo to create product backlog later_
+- [x] _**[@KHTHONDEV](https://github.com/khthondev)** added issue labels to the repo for froduct feature backlog_
 
 ---
 
