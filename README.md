@@ -4,7 +4,7 @@
 
 # PROJECT NAVIGATION
 
-1. **[MANIFESTO](docs/main/MANIFESTO.md)** _— Read about the foundation behind Edupunk OS and why **[@KHTHONDEV](https://github.com/khthondev)** is building it_
+1. **[MANIFESTO](docs/main/MANIFESTO.md)** _— read about the foundation behind Edupunk OS and why **[@KHTHONDEV](https://github.com/khthondev)** is building it_
 2. **[RESEARCH SQUAD](docs/research/RESEARCH.md)***
 3. **[CONTRIBUTING MOSH PIT](docs/main/CONTRIBUTING.md)*** _— added EDUPUNK OS CONTRIBUTION GUIDELINES_
 4. **[LEARN](docs/learn/LEARN.md)***
