@@ -8,7 +8,7 @@ This is the source code of the Edupunk OS.
 
 ---
 
-<img src="../docs/assets/doc-images/edupunk-os-hand-eye-logo.gif" width="200px">
+<img src="../assets/doc-images/edupunk-os-hand-eye-logo.gif" width="200px">
 
 **THIS ISN'T JUST SOFTWARE. THIS IS EDUCATION RECLAIMED. THIS IS EDUPUNK OS**
 
