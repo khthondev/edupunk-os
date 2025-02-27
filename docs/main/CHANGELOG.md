@@ -13,7 +13,7 @@
 ### 2025-02-27
 
 - [x] _**[@KHTHONDEV](https://github.com/khthondev)** added issue labels to the repo for froduct feature backlog_
-- [x] _**[@KHTHONDEV](https://github.com/khthondev)** added EDUPUNK OS CONTRIBUTION GUIDELINES to [CONTRIBUTING.md](CONTRIBUTING.md)_
+- [x] _**[@KHTHONDEV](https://github.com/khthondev)** added EDUPUNK OS CONTRIBUTION GUIDELINES to **[CONTRIBUTING.md](CONTRIBUTING.md)**_
 
 ---
 
