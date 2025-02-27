@@ -85,7 +85,7 @@
 
 ## PRACTICAL APPLICATIONS
 
-<img src="https://media.gifdb.com/electroboom-funny-electricity-shock-p6tsrokdyzklusjt.gif" width="350" alt="Practical Electric Application">
+<img src="../../assets/doc-gifs/electric-enlightment.gif" width="350" alt="Electic Enlightment">
 
 ### FOR DESIGNERS
 
