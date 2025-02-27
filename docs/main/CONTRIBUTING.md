@@ -81,7 +81,11 @@
 - Create tests that verify core functionality
 - Remember that education software should last for years, not months
 
+---
+
 ## PRACTICAL APPLICATIONS
+
+<img src="https://media.gifdb.com/electroboom-funny-electricity-shock-p6tsrokdyzklusjt.gif" width="350" alt="Practical Electric Application">
 
 ### FOR DESIGNERS
 
@@ -114,6 +118,8 @@
 - Create realistic classroom testing scenarios
 - Validate privacy assumptions with data flow mapping
 - Develop accessibility testing protocols
+
+---
 
 ## CODE REVIEW CHECKLIST
 
