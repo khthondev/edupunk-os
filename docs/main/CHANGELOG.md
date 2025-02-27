@@ -8,12 +8,12 @@
 
 ### 2025-02-25
 
-- [x] _**[@KHTHONDEV](https://github.com/khthondev)** set up the project repo's initial structure, added mock pages, and the first version of the manifesto_
+- [x] **[@KHTHONDEV](https://github.com/khthondev)** set up the project repo's initial structure, added mock pages, and the first version of the manifesto
 
 ### 2025-02-27
 
-- [x] _**[@KHTHONDEV](https://github.com/khthondev)** added issue labels to the repo for froduct feature backlog_
-- [x] _**[@KHTHONDEV](https://github.com/khthondev)** added EDUPUNK OS CONTRIBUTION GUIDELINES to **[CONTRIBUTING.md](CONTRIBUTING.md)**_
+- [x] **[@KHTHONDEV](https://github.com/khthondev)** added issue labels to the repo for froduct feature backlog
+- [x] **[@KHTHONDEV](https://github.com/khthondev)** added EDUPUNK OS CONTRIBUTION GUIDELINES to **[CONTRIBUTING.md](CONTRIBUTING.md)**
 
 ---
 
