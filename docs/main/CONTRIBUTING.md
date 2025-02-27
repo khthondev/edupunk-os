@@ -129,7 +129,7 @@
 
 ## CODE REVIEW CHECKLIST
 
-<img src="../../assets/doc-gifs/old-school-mosh.gif" width="350" alt="Checklist">
+<img src="../../assets/doc-gifs/checklist.gif" width="350" alt="Checklist">
 
 ---
 
