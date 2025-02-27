@@ -17,7 +17,7 @@
 - Default to local storage over cloud, encryption over plaintext, minimal data over comprehensive collection
 - Remember: Students and teachers should never worry about being surveilled
 
-### 2. SIMPLICITY OVER COMPLEXITY
+#### 2. SIMPLICITY OVER COMPLEXITY
 
 - Choose the simplest viable solution for any problem
 - Value readable code that future contributors can understand and modify
@@ -25,56 +25,56 @@
 - Single-binary deployment should remain possible
 - If you can't explain your solution to a non-technical teacher, it's too complex
 
-### 3. RESOURCE CONSERVATION
+#### 3. RESOURCE CONSERVATION
 
 - Every line of code should respect the constraints of decade-old hardware
 - Measure and optimize memory usage, startup time, and response time
 - Prefer efficient algorithms that scale well with limited resources
 - Remember the teacher using a hand-me-down laptop with 4GB RAM
 
-### 4. TEACHER AUTONOMY
+#### 4. TEACHER AUTONOMY
 
 - Design interfaces and features that empower teachers to make decisions
 - Avoid "opinionated" solutions that force specific workflows
 - Make customization accessible through clear interfaces, not config files
 - The teacher should control the software, never the reverse
 
-### 5. ACCESSIBILITY BY DESIGN
+#### 5. ACCESSIBILITY BY DESIGN
 
 - Build interfaces that work for users of all abilities
 - Ensure screen reader compatibility and keyboard navigation
 - Support high-contrast modes and resizable text
 - Test on various devices and screen sizes
 
-### 6. CODE AS EDUCATION
+#### 6. CODE AS EDUCATION
 
 - Write code that teaches, not just functions
 - Document the "why" behind decisions, not just the "how"
 - View every pull request as a chance to mentor new contributors
 - Structure repositories and documentation for learning, not just reference
 
-### 7. OFFLINE-FIRST THINKING
+#### 7. OFFLINE-FIRST THINKING
 
 - Design every feature to work without internet connection
 - Add synchronization as a layer on top of local functionality
 - Test in environments with no connectivity, not just poor connectivity
 - Remember the classroom where Wi-Fi is unreliable or non-existent
 
-### 8. COMMUNITY-MINDED DEVELOPMENT
+#### 8. COMMUNITY-MINDED DEVELOPMENT
 
 - Write for future maintainers, not just for yourself
 - Share knowledge openly through documentation and discussions
 - Value diverse perspectives in design decisions
 - Support new contributors with patience and mentorship
 
-### 9. ETHICAL DESIGN
+#### 9. ETHICAL DESIGN
 
 - Question features that encourage addictive usage patterns
 - Avoid gamification elements that prioritize engagement over learning
 - Design to reduce stress, not increase it
 - Consider the psychological impact of interfaces on students
 
-### 10. SUSTAINABLE DEVELOPMENT
+#### 10. SUSTAINABLE DEVELOPMENT
 
 - Build features that remain maintainable long-term
 - Document architectural decisions for future contributors
